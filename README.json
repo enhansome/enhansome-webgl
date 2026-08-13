@@ -196,7 +196,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T01:52:33Z",
+            "last_commit": "2026-08-13T05:46:07Z",
             "owner": "hiloteam",
             "repo": "Hilo3d",
             "stars": 662
@@ -322,7 +322,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 495058
+            "stars": 495125
           }
         },
         {
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:20:56.910Z",
+    "last_updated": "2026-08-13T08:02:44.143Z",
     "original_repository": "sjfricke/awesome-webgl",
     "original_repository_sha": "cfd85fd8e83646e9e871c471a57e286b6dcb44a6",
     "enhanced_repository": "enhansome/enhansome-webgl",

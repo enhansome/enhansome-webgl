@@ -105,7 +105,7 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,058 | 🐛 7 | 🌐 C++ | 📅 2026-08-14 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,056 | 🐛 7 | 🌐 C++ | 📅 2026-08-15 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
 * [WebGL Source Code](https://github.com/KhronosGroup/WebGL) ⭐ 2,842 | 🐛 237 | 🌐 HTML | 📅 2026-08-11 - Source code to both view and contribute.
 * [Khronos Official Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/immersive-web/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
@@ -204,7 +204,7 @@ Processing Unit (GPU).
 ### Tutorials
 
 * [WebGL 2 Examples](https://github.com/tsherif/webgl2examples) ⭐ 577 | 🐛 2 | 🌐 HTML | 📅 2018-11-13 - Rendering algorithms implemented in raw WebGL 2.
-* [WebGL 2 & GLSL Primer: A Zero-to-Hero, Spaced-Repetition Guide](https://github.com/GregStanton/webgl2-glsl-primer) ⭐ 73 | 🐛 0 | 📅 2026-08-12 - Grok WebGL2 and GLSL through a sequence of guided lessons, each chunked into atomic Q\&A cards, with hands-on projects and solution code integrated throughout.
+* [WebGL 2 & GLSL Primer: A Zero-to-Hero, Spaced-Repetition Guide](https://github.com/GregStanton/webgl2-glsl-primer) ⭐ 73 | 🐛 0 | 📅 2026-08-15 - Grok WebGL2 and GLSL through a sequence of guided lessons, each chunked into atomic Q\&A cards, with hands-on projects and solution code integrated throughout.
 * [WebGL 2 Fundamentals](https://webgl2fundamentals.org/)- Series of online tutorials with code samples and live demonstrations.
 * [WebGL 2 Samples](http://webglsamples.org/WebGL2Samples/) - Great source of many different WebGL 2 work with very good commenting.
 
@@ -262,9 +262,9 @@ Processing Unit (GPU).
 
 ### 2D
 
-* [Planck.js](https://github.com/shakiba/planck.js) ⭐ 5,267 | 🐛 31 | 🌐 TypeScript | 📅 2026-04-07 - 2D physics engine for cross-platform HTML5 game development.
+* [Planck.js](https://github.com/shakiba/planck.js) ⭐ 5,269 | 🐛 31 | 🌐 TypeScript | 📅 2026-04-07 - 2D physics engine for cross-platform HTML5 game development.
 * [p2.js](https://github.com/schteppe/p2.js) ⭐ 2,692 | 🐛 106 | 🌐 JavaScript | 📅 2022-07-09 - 2D rigid body physics engine written in JavaScript.
-* [Stage.js](https://github.com/shakiba/stage.js) ⭐ 2,571 | 🐛 8 | 🌐 TypeScript | 📅 2026-04-07 - 2D Library for cross-platform HTML5 game development.
+* [Stage.js](https://github.com/shakiba/stage.js) ⭐ 2,572 | 🐛 8 | 🌐 TypeScript | 📅 2026-04-07 - 2D Library for cross-platform HTML5 game development.
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 * [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
 
@@ -294,13 +294,13 @@ Processing Unit (GPU).
 
 ### Rendering
 
-* [Hilo3d](https://github.com/hiloteam/Hilo3d) ⭐ 662 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-13 - WebGL rendering engine for 3D games.
+* [Hilo3d](https://github.com/hiloteam/Hilo3d) ⭐ 662 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-15 - WebGL rendering engine for 3D games.
 * [GLBoost](https://github.com/emadurandal/GLBoost) ⭐ 107 | 🐛 56 | 🌐 JavaScript | 📅 2025-05-19 - Rendering library for 3D graphic geeks.
 * [GrimoireGL](https://grimoire.gl/) - Bridge between Web engineers and CG engineers.
 
 ### Physics
 
-* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,551 | 🐛 175 | 🌐 C++ | 📅 2026-06-16 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,553 | 🐛 175 | 🌐 C++ | 📅 2026-06-16 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Cannon.js](http://schteppe.github.io/cannon.js/) - Lightweight and simple 3D physics engine for the web.
 
 ### WebGL 2
@@ -311,7 +311,7 @@ Processing Unit (GPU).
 
 * [Primrose](https://github.com/capnmidnight/Primrose/) ⭐ 535 | 🐛 9 | 🌐 JavaScript | 📅 2025-02-11 - Rapidly prototype VR applications in your browser.
 * [A-Frame](https://aframe.io/) - Web framework for building virtual reality experiences.
-  * [Awesome-AFrame](https://github.com/aframevr/awesome-aframe) ⭐ 1,337 | 🐛 0 | 📅 2017-10-29
+  * [Awesome-AFrame](https://github.com/aframevr/awesome-aframe) ⭐ 1,336 | 🐛 0 | 📅 2017-10-29
 * [Hologram](https://hologram.cool/) - Desktop app that let you create and prototype WebVR in interactive way needing no previous coding knowledge.
 * [LÖVR](https://lovr.org/) - Simple framework for creating VR with Lua.
 * [React 360](https://facebook.github.io/react-360/) - Build VR websites and interactive 360 experiences with React.
@@ -358,8 +358,8 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,519 | 🐛 100 | 📅 2026-06-30 - Curated list of awesome lists.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,122 | 🐛 12 | 🌐 Markdown | 📅 2026-08-10 - Awesome list about game development.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,882 | 🐛 100 | 📅 2026-06-30 - Curated list of awesome lists.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,129 | 🐛 12 | 🌐 Markdown | 📅 2026-08-10 - Awesome list about game development.
 * [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,813 | 🐛 326 | 🌐 HTML | 📅 2026-08-11 - Runtime 3D Asset Delivery designed for the web.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,716 | 🐛 4 | 📅 2026-05-11 - Curated list of awesome Vulkan projects and ecosystem.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,432 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
@@ -381,4 +381,4 @@ To the extent possible under law, [Spencer Fricke](https://github.com/sjfricke) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

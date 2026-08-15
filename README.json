@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T03:12:29Z",
+            "last_commit": "2026-08-15T04:51:24Z",
             "owner": "google",
             "repo": "angle",
-            "stars": 4058
+            "stars": 4056
           }
         },
         {
@@ -108,7 +108,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-12T02:14:41Z",
+            "last_commit": "2026-08-15T02:34:29Z",
             "owner": "GregStanton",
             "repo": "webgl2-glsl-primer",
             "stars": 73
@@ -146,7 +146,7 @@
             "last_commit": "2026-04-07T12:29:53Z",
             "owner": "piqnt",
             "repo": "planck.js",
-            "stars": 5267
+            "stars": 5269
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-04-07T09:57:40Z",
             "owner": "piqnt",
             "repo": "stage.js",
-            "stars": 2571
+            "stars": 2572
           }
         }
       ],
@@ -196,7 +196,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T14:32:20Z",
+            "last_commit": "2026-08-15T03:53:28Z",
             "owner": "hiloteam",
             "repo": "Hilo3d",
             "stars": 662
@@ -252,7 +252,7 @@
                 "last_commit": "2017-10-29T22:28:54Z",
                 "owner": "aframevr",
                 "repo": "awesome-aframe",
-                "stars": 1337
+                "stars": 1336
               }
             }
           ]
@@ -322,7 +322,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 495519
+            "stars": 495882
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-10T17:51:51Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17122
+            "stars": 17129
           }
         },
         {
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T07:58:20.232Z",
+    "last_updated": "2026-08-15T07:08:06.513Z",
     "original_repository": "sjfricke/awesome-webgl",
     "original_repository_sha": "cfd85fd8e83646e9e871c471a57e286b6dcb44a6",
     "enhanced_repository": "enhansome/enhansome-webgl",

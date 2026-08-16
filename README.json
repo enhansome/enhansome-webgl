@@ -24,7 +24,7 @@
             "last_commit": "2026-08-15T04:51:24Z",
             "owner": "google",
             "repo": "angle",
-            "stars": 4056
+            "stars": 4057
           }
         },
         {
@@ -322,7 +322,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 495882
+            "stars": 496245
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-10T17:51:51Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17129
+            "stars": 17134
           }
         },
         {
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:08:06.513Z",
+    "last_updated": "2026-08-16T07:10:45.983Z",
     "original_repository": "sjfricke/awesome-webgl",
     "original_repository_sha": "cfd85fd8e83646e9e871c471a57e286b6dcb44a6",
     "enhanced_repository": "enhansome/enhansome-webgl",

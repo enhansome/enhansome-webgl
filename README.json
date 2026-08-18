@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T14:11:27Z",
+            "last_commit": "2026-08-18T04:11:32Z",
             "owner": "google",
             "repo": "angle",
-            "stars": 4057
+            "stars": 4058
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2026-04-07T12:29:53Z",
             "owner": "piqnt",
             "repo": "planck.js",
-            "stars": 5269
+            "stars": 5268
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2022-07-09T03:13:18Z",
             "owner": "schteppe",
             "repo": "p2.js",
-            "stars": 2693
+            "stars": 2692
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-04-07T09:57:40Z",
             "owner": "piqnt",
             "repo": "stage.js",
-            "stars": 2572
+            "stars": 2571
           }
         }
       ],
@@ -199,7 +199,7 @@
             "last_commit": "2026-08-15T03:53:28Z",
             "owner": "hiloteam",
             "repo": "Hilo3d",
-            "stars": 662
+            "stars": 661
           }
         },
         {
@@ -233,7 +233,7 @@
             "last_commit": "2025-02-11T05:57:58Z",
             "owner": "capnmidnight",
             "repo": "Primrose",
-            "stars": 535
+            "stars": 534
           }
         },
         {
@@ -322,7 +322,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 496699
+            "stars": 497111
           }
         },
         {
@@ -333,10 +333,10 @@
           "repo_info": {
             "archived": false,
             "language": "Markdown",
-            "last_commit": "2026-08-16T13:23:25Z",
+            "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17139
+            "stars": 17142
           }
         },
         {
@@ -347,7 +347,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-11T18:00:54Z",
+            "last_commit": "2026-08-17T17:08:47Z",
             "owner": "KhronosGroup",
             "repo": "glTF",
             "stars": 7813
@@ -378,7 +378,7 @@
             "last_commit": "2026-01-09T12:26:55Z",
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2432
+            "stars": 2431
           }
         },
         {
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:35:08.941Z",
+    "last_updated": "2026-08-18T07:21:40.192Z",
     "original_repository": "sjfricke/awesome-webgl",
     "original_repository_sha": "cfd85fd8e83646e9e871c471a57e286b6dcb44a6",
     "enhanced_repository": "enhansome/enhansome-webgl",

@@ -1,315 +1,328 @@
 {
   "items": [
     {
-      "description": "WebGL (Web Graphics Library) is a JavaScript API for rendering interactive 3D computer graphics and 2D graphics within any compatible web browser without the use of plug-ins. WebGL is integrated completely into all the web standards of the browser allowing GPU accelerated usage of physics and image processing and effects as part of the web page canvas.\nWebGL elements can be mixed with other HTML elements and composited with other parts of the page or page background. WebGL programs consist of control code written in JavaScript and shader code that is executed on a computer's Graphics Processing Unit (GPU).",
-      "items": [],
-      "title": "What is WebGL"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "WebGL"
-    },
-    {
-      "description": "",
+      "description": "All things dealing with WebGL",
       "items": [
         {
-          "node_type": "item",
-          "title": "Google Project ANGLE",
-          "description": "Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T04:11:32Z",
-            "owner": "google",
-            "repo": "angle",
-            "stars": 4058
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WebGL Source Code",
-          "description": "Source code to both view and contribute.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-11T18:54:17Z",
-            "owner": "KhronosGroup",
-            "repo": "WebGL",
-            "stars": 2842
-          }
-        }
-      ],
-      "title": "References"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Webgl Insight",
-          "description": "Chrome extension WebGL debugging toolkit providing a variety of capabilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-09-30T16:30:40Z",
-            "owner": "3Dparallax",
-            "repo": "insight",
-            "stars": 914
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GLSL Shader Editor Extension",
-          "description": "Chrome DevTools extension to help you edit shaders live in the browser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-05-01T15:54:13Z",
-            "owner": "spite",
-            "repo": "ShaderEditorExtension",
-            "stars": 634
-          }
-        }
-      ],
-      "title": "Chrome Specific Tools/Debugger"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "WebGL 2"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "WebGL 2 Examples",
-          "description": "Rendering algorithms implemented in raw WebGL 2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2018-11-13T11:39:03Z",
-            "owner": "tsherif",
-            "repo": "webgl2examples",
-            "stars": 577
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WebGL 2 & GLSL Primer: A Zero-to-Hero, Spaced-Repetition Guide",
-          "description": "Grok WebGL2 and GLSL through a sequence of guided lessons, each chunked into atomic Q&A cards, with hands-on projects and solution code integrated throughout.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-15T02:34:29Z",
-            "owner": "GregStanton",
-            "repo": "webgl2-glsl-primer",
-            "stars": 73
-          }
-        }
-      ],
-      "title": "Tutorials"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "WebVR"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Articles"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Planck.js",
-          "description": "2D physics engine for cross-platform HTML5 game development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-07T12:29:53Z",
-            "owner": "piqnt",
-            "repo": "planck.js",
-            "stars": 5268
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p2.js",
-          "description": "2D rigid body physics engine written in JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-07-09T03:13:18Z",
-            "owner": "schteppe",
-            "repo": "p2.js",
-            "stars": 2692
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stage.js",
-          "description": "2D Library for cross-platform HTML5 game development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-07T09:57:40Z",
-            "owner": "piqnt",
-            "repo": "stage.js",
-            "stars": 2571
-          }
-        }
-      ],
-      "title": "2D"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Compute (GPGPU)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Hilo3d",
-          "description": "WebGL rendering engine for 3D games.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-15T03:53:28Z",
-            "owner": "hiloteam",
-            "repo": "Hilo3d",
-            "stars": 661
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GLBoost",
-          "description": "Rendering library for 3D graphic geeks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-05-19T16:37:08Z",
-            "owner": "emadurandal",
-            "repo": "GLBoost",
-            "stars": 107
-          }
-        }
-      ],
-      "title": "Rendering"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Primrose",
-          "description": "Rapidly prototype VR applications in your browser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-02-11T05:57:58Z",
-            "owner": "capnmidnight",
-            "repo": "Primrose",
-            "stars": 534
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "A-Frame",
-          "description": "Web framework for building virtual reality experiences.",
           "children": [
             {
               "node_type": "item",
-              "title": "Awesome-AFrame",
-              "description": null,
+              "title": "Google Project ANGLE",
+              "description": "Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": null,
-                "last_commit": "2017-10-29T22:28:54Z",
-                "owner": "aframevr",
-                "repo": "awesome-aframe",
-                "stars": 1336
+                "id": 23355681,
+                "language": "C++",
+                "last_commit": "2026-08-19T03:23:25Z",
+                "owner": "google",
+                "repo": "angle",
+                "stars": 4057
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WebGL Source Code",
+              "description": "Source code to both view and contribute.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5207280,
+                "language": "HTML",
+                "last_commit": "2026-08-11T18:54:17Z",
+                "owner": "KhronosGroup",
+                "repo": "WebGL",
+                "stars": 2842
               }
             }
-          ]
+          ],
+          "description": "WebGL references",
+          "node_type": "group",
+          "title": "References"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Webgl Insight",
+                  "description": "Chrome extension WebGL debugging toolkit providing a variety of capabilities.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 52135330,
+                    "language": "JavaScript",
+                    "last_commit": "2021-09-30T16:30:40Z",
+                    "owner": "3Dparallax",
+                    "repo": "insight",
+                    "stars": 914
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GLSL Shader Editor Extension",
+                  "description": "Chrome DevTools extension to help you edit shaders live in the browser.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 33510422,
+                    "language": "JavaScript",
+                    "last_commit": "2017-05-01T15:54:13Z",
+                    "owner": "spite",
+                    "repo": "ShaderEditorExtension",
+                    "stars": 634
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Chrome Specific Tools/Debugger"
+            }
+          ],
+          "description": "Tools for development and debugging WebGL",
+          "node_type": "group",
+          "title": "Tools/Debugging"
         }
       ],
-      "title": "WebVR"
+      "title": "WebGL"
     },
     {
-      "description": "",
+      "description": "Information about the upcoming WebGL 2 specsAnything pertaining to WebGL in general is found in the WebGL section",
       "items": [
         {
-          "node_type": "item",
-          "title": "Turbulenz",
-          "description": "Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-05-28T11:56:21Z",
-            "owner": "turbulenz",
-            "repo": "turbulenz_engine",
-            "stars": 5042
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lightgl.js",
-          "description": "Lightweight and explict library to help prototype.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-08-25T07:09:47Z",
-            "owner": "evanw",
-            "repo": "lightgl.js",
-            "stars": 1570
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pocket.gl",
-          "description": "Fully customizable webgl shader sandbox to embed in your pages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-04-26T14:14:22Z",
-            "owner": "gportelli",
-            "repo": "pocket.gl",
-            "stars": 123
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WebGL 2 Examples",
+              "description": "Rendering algorithms implemented in raw WebGL 2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85437440,
+                "language": "HTML",
+                "last_commit": "2018-11-13T11:39:03Z",
+                "owner": "tsherif",
+                "repo": "webgl2examples",
+                "stars": 577
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WebGL 2 & GLSL Primer: A Zero-to-Hero, Spaced-Repetition Guide",
+              "description": "Grok WebGL2 and GLSL through a sequence of guided lessons, each chunked into atomic Q&A cards, with hands-on projects and solution code integrated throughout.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1112836596,
+                "language": null,
+                "last_commit": "2026-08-15T02:34:29Z",
+                "owner": "GregStanton",
+                "repo": "webgl2-glsl-primer",
+                "stars": 73
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
         }
       ],
-      "title": "Others"
+      "title": "WebGL 2"
     },
     {
-      "description": "",
+      "description": "More detailed information about the different libraries can be found in the Libraries directory.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Planck.js",
+              "description": "2D physics engine for cross-platform HTML5 game development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54445812,
+                "language": "TypeScript",
+                "last_commit": "2026-04-07T12:29:53Z",
+                "owner": "piqnt",
+                "repo": "planck.js",
+                "stars": 5269
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p2.js",
+              "description": "2D rigid body physics engine written in JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7957889,
+                "language": "JavaScript",
+                "last_commit": "2022-07-09T03:13:18Z",
+                "owner": "schteppe",
+                "repo": "p2.js",
+                "stars": 2692
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stage.js",
+              "description": "2D Library for cross-platform HTML5 game development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14096024,
+                "language": "TypeScript",
+                "last_commit": "2026-04-07T09:57:40Z",
+                "owner": "piqnt",
+                "repo": "stage.js",
+                "stars": 2571
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2D"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hilo3d",
+              "description": "WebGL rendering engine for 3D games.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201173291,
+                "language": "TypeScript",
+                "last_commit": "2026-08-15T03:53:28Z",
+                "owner": "hiloteam",
+                "repo": "Hilo3d",
+                "stars": 662
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GLBoost",
+              "description": "Rendering library for 3D graphic geeks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38567242,
+                "language": "JavaScript",
+                "last_commit": "2025-05-19T16:37:08Z",
+                "owner": "emadurandal",
+                "repo": "GLBoost",
+                "stars": 107
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rendering"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Primrose",
+              "description": "Rapidly prototype VR applications in your browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28740792,
+                "language": "JavaScript",
+                "last_commit": "2025-02-11T05:57:58Z",
+                "owner": "capnmidnight",
+                "repo": "Primrose",
+                "stars": 534
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "A-Frame",
+              "description": "Web framework for building virtual reality experiences.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Awesome-AFrame",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 47050970,
+                    "language": null,
+                    "last_commit": "2017-10-29T22:28:54Z",
+                    "owner": "aframevr",
+                    "repo": "awesome-aframe",
+                    "stars": 1335
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WebVR"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Turbulenz",
+              "description": "Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9815120,
+                "language": "TypeScript",
+                "last_commit": "2023-05-28T11:56:21Z",
+                "owner": "turbulenz",
+                "repo": "turbulenz_engine",
+                "stars": 5042
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lightgl.js",
+              "description": "Lightweight and explict library to help prototype.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1954949,
+                "language": "JavaScript",
+                "last_commit": "2022-08-25T07:09:47Z",
+                "owner": "evanw",
+                "repo": "lightgl.js",
+                "stars": 1570
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pocket.gl",
+              "description": "Fully customizable webgl shader sandbox to embed in your pages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55584610,
+                "language": "JavaScript",
+                "last_commit": "2019-04-26T14:14:22Z",
+                "owner": "gportelli",
+                "repo": "pocket.gl",
+                "stars": 123
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "Similar awesome lists",
       "items": [
         {
           "node_type": "item",
@@ -318,11 +331,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21737465,
             "language": null,
-            "last_commit": "2026-06-30T18:21:16Z",
+            "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497111
+            "stars": 497541
           }
         },
         {
@@ -332,11 +346,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21958186,
             "language": "Markdown",
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17142
+            "stars": 17149
           }
         },
         {
@@ -346,11 +361,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7921466,
             "language": "HTML",
-            "last_commit": "2026-08-17T17:08:47Z",
+            "last_commit": "2026-08-19T00:13:29Z",
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7813
+            "stars": 7812
           }
         },
         {
@@ -360,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51843752,
             "language": null,
             "last_commit": "2026-05-11T04:37:02Z",
             "owner": "vinjn",
@@ -374,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37971591,
             "language": null,
             "last_commit": "2026-01-09T12:26:55Z",
             "owner": "eug",
@@ -388,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38935281,
             "language": null,
             "last_commit": "2020-12-30T21:02:56Z",
             "owner": "mattdesl",
@@ -397,25 +416,10 @@
         }
       ],
       "title": "Related lists"
-    },
-    {
-      "description": "Please see CONTRIBUTING for details.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Travis CI testing automation thanks to awesome_bot!",
-      "items": [],
-      "title": "Testing"
-    },
-    {
-      "description": "To the extent possible under law, Spencer Fricke has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:21:40.192Z",
+    "last_updated": "2026-08-19T07:22:15.911Z",
     "original_repository": "sjfricke/awesome-webgl",
     "original_repository_sha": "cfd85fd8e83646e9e871c471a57e286b6dcb44a6",
     "enhanced_repository": "enhansome/enhansome-webgl",

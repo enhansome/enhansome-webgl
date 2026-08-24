@@ -54,32 +54,32 @@ Processing Unit (GPU).
 
 > Blog series of WebGL topics
 
+* [WebGL Month](https://github.com/lesnitsky/webgl-month) ⭐ 226 | 🐛 4 | 🌐 JavaScript | 📅 2024-08-28 – Daily WebGL tutorial for a month.
 * [Codeflow](http://codeflow.org/tags/webgl.html) - Many blogs on different tricks and techniques.
 * [Real-Time Rendering](http://www.realtimerendering.com/blog/tag/webgl/) - This is the blog for the book *Real-Time Rendering*.
 * [WebGL Best Practices](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices) - Mozilla's offical set of best practices.
 * [WebGL Insights](http://webglinsights.blogspot.com/) - This is the blog for the book *WebGL Insights*.
-* [WebGL Month](https://github.com/lesnitsky/webgl-month) ⭐ 226 | 🐛 4 | 🌐 JavaScript | 📅 2024-08-28 – Daily WebGL tutorial for a month.
 * [WebGL Image Processing](https://maximmcnair.com/webgl-image-processing) - Covers a range of *Image Processing* algorithms in WebGL such as Color Correction, Blend Modes, Thresholding, Dithering, Convolution and Film Grain.
 
 ### Books
 
 > Popular books about WebGL
 
+* [WebGL Insights](https://github.com/WebGLInsights/WebGLInsights.github.io/releases/download/v1.0/WebGL.Insights.-.Patrick.Cozzi.pdf) ⭐ 39 | 🐛 0 | 🌐 HTML | 📅 2017-07-26 by **Patrick Cozzi** - Presents real-world techniques for intermediate and advanced WebGL developers by assembling contributions from experienced WebGL engine and application developers, GPU vendors, browser developers, researchers, and educators.
+  * [Book's Personal Site](http://www.webglinsights.com/)
 * [Interactive Computer Graphics: A Top-Down Approach with WebGL](https://www.amazon.com/Interactive-Computer-Graphics-Top-Down-Approach/dp/0133574849) by **Edward Angel** and **Dave Shreiner** - Suitable for undergraduate students in computer science and engineering, for students in other disciplines who have good programming skills, and for professionals interested in computer animation and graphics using the latest version of WebGL.
 * [Professional WebGL Programming](https://www.amazon.com/Professional-WebGL-Programming-Developing-Graphics/dp/1119968860) by **Andreas Anyuru** - Everything you need to know about developing hardware-accelerated 3D graphics with WebGL.
 * [Programming 3D Applications with HTML5 and WebGL](https://www.amazon.com/Programming-Applications-HTML5-WebGL-Visualization/dp/1449362966) by **Tony Parisi** - Create high-performance, visually stunning 3D applications for the Web, using HTML5 and related technologies such as CSS3 and WebGL—the emerging web graphics standard.
 * [WebGL Beginner's guide](https://www.amazon.com/WebGL-Beginners-Guide-Diego-Cantor/dp/184969172X) by **Diego Cantor** and **Brandon Jones** - For JavaScript developer who wants to take the plunge into 3D web development via WebGL.
 * [WebGL Hotshot](https://www.amazon.com/WebGL-Hotshot-Mitch-Williams-ebook/dp/B00KLAJ65Y) by **Mitch Williams** - For web designer looking to expand your knowledge of 3D graphics concepts and broaden your existing skill set.
-* [WebGL Insights](https://github.com/WebGLInsights/WebGLInsights.github.io/releases/download/v1.0/WebGL.Insights.-.Patrick.Cozzi.pdf) ⭐ 39 | 🐛 0 | 🌐 HTML | 📅 2017-07-26 by **Patrick Cozzi** - Presents real-world techniques for intermediate and advanced WebGL developers by assembling contributions from experienced WebGL engine and application developers, GPU vendors, browser developers, researchers, and educators.
-  * [Book's Personal Site](http://www.webglinsights.com/)
 * [WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL](https://www.amazon.com/WebGL-Programming-Guide-Interactive-Graphics/dp/0321902920) by **Kouichi Matsuda** and **Rodger Lea** - WebGL Programming Guide will help you get started quickly with interactive WebGL 3D programming, even if you have no prior knowledge of HTML5, JavaScript, 3D graphics, mathematics, or OpenGL.
 
 ### Bug Reporting
 
 > Reporting bugs helps everyone in long run
 
-* [Chrome Bug Report](https://bugs.chromium.org/p/chromium/issues/list) - Chrome related bugs
 * [Khronos Github Issue Page](https://github.com/KhronosGroup/WebGL/issues) ⭐ 2,846 | 🐛 238 | 🌐 HTML | 📅 2026-08-21 - Spec or Conformance related bugs
+* [Chrome Bug Report](https://bugs.chromium.org/p/chromium/issues/list) - Chrome related bugs
 * [Mozilla BugZilla](https://bugzilla.mozilla.org) - Firefox related bugs
 * [WebKit Bugzilla](https://bugs.webkit.org/enter_bug.cgi?assigned_to=cmarrin%40apple.com\&attachurl=\&blocked=\&bug_file_loc=http%3A%2F%2F\&bug_severity=Normal\&bug_status=NEW\&comment=\&component=WebGL\&contenttypeentry=\&contenttypemethod=autodetect\&contenttypeselection=text%2Fplain\&data=\&dependson=\&description=\&flag_type-1=X\&flag_type-3=X\&form_name=enter_bug\&keywords=\&maketemplate=Remember%20values%20as%20bookmarkable%20template\&op_sys=Mac%20OS%20X%2010.5\&priority=P2\&product=WebKit\&rep_platform=PC\&short_desc=\&version=528%2B%20%28Nightly%20build%29) - Safari related bugs
 
@@ -93,9 +93,9 @@ Processing Unit (GPU).
 >
 > [Official Specs for Open ES Version 2.0.25](https://www.khronos.org/registry/OpenGL/specs/es/2.0/es_full_spec_2.0.pdf)
 
+* [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify](https://github.com/glslify/glslify) ⭐ 2,285 | 🐛 63 | 🌐 JavaScript | 📅 2022-06-29.
 * [Fractal Lab](http://hirnsohle.de/test/fractalLab/) - Online fractal explorer allowing you to explore 2D and 2D fractal.
 * [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
-* [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify](https://github.com/glslify/glslify) ⭐ 2,285 | 🐛 63 | 🌐 JavaScript | 📅 2022-06-29.
 * [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
 * [ShaderFrog](https://shaderfrog.com/) - WebGL Shader Editor and Composer.
 * [SHDR Editor](http://shdr.bkcore.com) - Live GLSL shader editor, viewer and validator.
@@ -105,7 +105,7 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,057 | 🐛 7 | 🌐 C++ | 📅 2026-08-24 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,058 | 🐛 7 | 🌐 C++ | 📅 2026-08-24 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
 * [WebGL Source Code](https://github.com/KhronosGroup/WebGL) ⭐ 2,846 | 🐛 238 | 🌐 HTML | 📅 2026-08-21 - Source code to both view and contribute.
 * [Khronos Official Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/immersive-web/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
@@ -280,10 +280,10 @@ Processing Unit (GPU).
 
 ### Maps and Visualizations
 
+* [MapMetrics GL](https://github.com/MapMetrics/mapmetrics-gl) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-20 - Mapbox GL JS-compatible mapping library with built-in vector tiles, geocoding, routing, and search.
 * [Cesium](https://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
 * [Deck.gl](http://deck.gl/) - WebGL overlay suite for React providing a set of highly performant data visualization overlays.
 * [Luma.gl](https://luma.gl/) - WebGL2 powered framework for GPU-powered data visualization and computation.
-* [MapMetrics GL](https://github.com/MapMetrics/mapmetrics-gl) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-20 - Mapbox GL JS-compatible mapping library with built-in vector tiles, geocoding, routing, and search.
 * [xeokit](https://xeokit.io/) - Web Graphics SDK for AEC/BIM applications with 3D-tiles, real-world coordinates and double precision.
 
 ### Math
@@ -318,7 +318,7 @@ Processing Unit (GPU).
 
 ### Others
 
-* [Turbulenz](https://github.com/turbulenz/turbulenz_engine) ⭐ 5,052 | 🐛 39 | 🌐 TypeScript | 📅 2023-05-28 - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
+* [Turbulenz](https://github.com/turbulenz/turbulenz_engine) ⭐ 5,053 | 🐛 39 | 🌐 TypeScript | 📅 2023-05-28 - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
 * [Lightgl.js](https://github.com/evanw/lightgl.js) ⭐ 1,570 | 🐛 18 | 🌐 JavaScript | 📅 2022-08-25 - Lightweight and explict library to help prototype.
 * [Pocket.gl](https://github.com/gportelli/pocket.gl) ⭐ 123 | 🐛 2 | 🌐 JavaScript | 📅 2019-04-26 - Fully customizable webgl shader sandbox to embed in your pages.
 * [Babylon.js](https://www.babylonjs.com/) - Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
@@ -358,11 +358,11 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,387 | 🐛 106 | 📅 2026-08-21 - Curated list of awesome lists.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21 - Curated list of awesome lists.
 * [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,191 | 🐛 14 | 🌐 Markdown | 📅 2026-08-17 - Awesome list about game development.
-* [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,816 | 🐛 332 | 🌐 HTML | 📅 2026-08-23 - Runtime 3D Asset Delivery designed for the web.
+* [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,816 | 🐛 332 | 🌐 HTML | 📅 2026-08-24 - Runtime 3D Asset Delivery designed for the web.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,713 | 🐛 5 | 📅 2026-05-11 - Curated list of awesome Vulkan projects and ecosystem.
-* [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,436 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
+* [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,435 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,853 | 🐛 5 | 📅 2020-12-30 - List of graphic programming resources.
 
 ## Contributing

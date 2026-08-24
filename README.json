@@ -7,6 +7,94 @@
           "children": [
             {
               "node_type": "item",
+              "title": "WebGL Month",
+              "description": "Daily WebGL tutorial for a month.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194667033,
+                "language": "JavaScript",
+                "last_commit": "2024-08-28T07:21:47Z",
+                "owner": "lesnitsky",
+                "repo": "webgl-month",
+                "stars": 226
+              }
+            }
+          ],
+          "description": "Blog series of WebGL topics",
+          "node_type": "group",
+          "title": "Blog Series"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WebGL Insights",
+              "description": "by Patrick Cozzi - Presents real-world techniques for intermediate and advanced WebGL developers by assembling contributions from experienced WebGL engine and application developers, GPU vendors, browser developers, researchers, and educators.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29318465,
+                "language": "HTML",
+                "last_commit": "2017-07-26T11:24:29Z",
+                "owner": "WebGLInsights",
+                "repo": "WebGLInsights.github.io",
+                "stars": 39
+              }
+            }
+          ],
+          "description": "Popular books about WebGL",
+          "node_type": "group",
+          "title": "Books"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Khronos Github Issue Page",
+              "description": "Spec or Conformance related bugs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5207280,
+                "language": "HTML",
+                "last_commit": "2026-08-21T00:59:27Z",
+                "owner": "KhronosGroup",
+                "repo": "WebGL",
+                "stars": 2846
+              }
+            }
+          ],
+          "description": "Reporting bugs helps everyone in long run",
+          "node_type": "group",
+          "title": "Bug Reporting"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GLSLbin",
+              "description": "Fragment shader sandbox supporting glslify.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6995555,
+                "language": "JavaScript",
+                "last_commit": "2022-06-29T02:02:58Z",
+                "owner": "glslify",
+                "repo": "glslify",
+                "stars": 2285
+              }
+            }
+          ],
+          "description": "Online GLSL EditorsNOTE: WebGL must conform to The OpenGL ES Shading Language, Version 1.00Official Specs for GLSL Version 1.00Official Specs for Open ES Version 2.0.25",
+          "node_type": "group",
+          "title": "GLSL Editors"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Google Project ANGLE",
               "description": "Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.",
               "children": [],
@@ -14,10 +102,10 @@
                 "archived": false,
                 "id": 23355681,
                 "language": "C++",
-                "last_commit": "2026-08-24T03:24:35Z",
+                "last_commit": "2026-08-24T14:09:29Z",
                 "owner": "google",
                 "repo": "angle",
-                "stars": 4057
+                "stars": 4058
               }
             },
             {
@@ -42,6 +130,21 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Khronos Dev Tools",
+              "description": "Useful WebGL developer tools, intended to be used as an ES6 module.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36822097,
+                "language": "JavaScript",
+                "last_commit": "2026-02-20T21:10:11Z",
+                "owner": "KhronosGroup",
+                "repo": "WebGLDeveloperTools",
+                "stars": 221
+              }
+            },
             {
               "children": [
                 {
@@ -131,8 +234,23 @@
       "title": "WebGL 2"
     },
     {
-      "description": "More detailed information about the different libraries can be found in the Libraries directory.",
+      "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "More detailed information about the different libraries can be found in the Libraries directory.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77980522,
+            "language": null,
+            "last_commit": "2026-04-02T03:35:40Z",
+            "owner": "sjfricke",
+            "repo": "awesome-webgl",
+            "stars": 1527
+          }
+        },
         {
           "children": [
             {
@@ -188,6 +306,57 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Phenomenon",
+                  "description": "Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 140527556,
+                    "language": "TypeScript",
+                    "last_commit": "2023-11-10T18:43:14Z",
+                    "owner": "vaneenige",
+                    "repo": "phenomenon",
+                    "stars": 1841
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Particles"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Compute (GPGPU)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MapMetrics GL",
+              "description": "Mapbox GL JS-compatible mapping library with built-in vector tiles, geocoding, routing, and search.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 949800784,
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T21:24:31Z",
+                "owner": "MapMetrics",
+                "repo": "mapmetrics-gl",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Maps and Visualizations"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "Hilo3d",
               "description": "WebGL rendering engine for 3D games.",
@@ -221,6 +390,28 @@
           "description": null,
           "node_type": "group",
           "title": "Rendering"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ammo.js",
+              "description": "Direct port of the Bullet physics engine to JavaScript using Emscripten.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1815807,
+                "language": "C++",
+                "last_commit": "2026-06-16T19:27:27Z",
+                "owner": "kripken",
+                "repo": "ammo.js",
+                "stars": 4555
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Physics"
         },
         {
           "children": [
@@ -280,7 +471,7 @@
                 "last_commit": "2023-05-28T11:56:21Z",
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5052
+                "stars": 5053
               }
             },
             {
@@ -336,7 +527,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499387
+            "stars": 499514
           }
         },
         {
@@ -363,7 +554,7 @@
             "archived": false,
             "id": 7921466,
             "language": "HTML",
-            "last_commit": "2026-08-23T23:03:57Z",
+            "last_commit": "2026-08-24T13:59:13Z",
             "owner": "KhronosGroup",
             "repo": "glTF",
             "stars": 7816
@@ -396,7 +587,7 @@
             "last_commit": "2026-01-09T12:26:55Z",
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2436
+            "stars": 2435
           }
         },
         {
@@ -419,7 +610,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:40:27.918Z",
+    "last_updated": "2026-08-24T14:13:10.511Z",
     "original_repository": "sjfricke/awesome-webgl",
     "original_repository_id": 77980522,
     "original_repository_sha": "cfd85fd8e83646e9e871c471a57e286b6dcb44a6",

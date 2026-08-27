@@ -102,10 +102,10 @@
                 "archived": false,
                 "id": 23355681,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:50:27Z",
+                "last_commit": "2026-08-27T16:50:32Z",
                 "owner": "google",
                 "repo": "angle",
-                "stars": 4062
+                "stars": 4063
               }
             },
             {
@@ -471,7 +471,7 @@
                 "last_commit": "2023-05-28T11:56:21Z",
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5057
+                "stars": 5058
               }
             },
             {
@@ -527,7 +527,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500370
+            "stars": 500456
           }
         },
         {
@@ -557,7 +557,7 @@
             "last_commit": "2026-08-24T17:35:16Z",
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7822
+            "stars": 7823
           }
         },
         {
@@ -610,7 +610,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:13:19.488Z",
+    "last_updated": "2026-08-27T17:52:15.130Z",
     "original_repository_info": {
       "archived": false,
       "id": 77980522,

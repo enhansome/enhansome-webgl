@@ -18,7 +18,8 @@
                 "owner": "lesnitsky",
                 "repo": "webgl-month",
                 "stars": 226
-              }
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             }
           ],
           "description": "Blog series of WebGL topics",
@@ -40,7 +41,8 @@
                 "owner": "WebGLInsights",
                 "repo": "WebGLInsights.github.io",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             }
           ],
           "description": "Popular books about WebGL",
@@ -62,7 +64,8 @@
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
                 "stars": 2847
-              }
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             }
           ],
           "description": "Reporting bugs helps everyone in long run",
@@ -84,7 +87,8 @@
                 "owner": "glslify",
                 "repo": "glslify",
                 "stars": 2285
-              }
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             }
           ],
           "description": "Online GLSL EditorsNOTE: WebGL must conform to The OpenGL ES Shading Language, Version 1.00Official Specs for GLSL Version 1.00Official Specs for Open ES Version 2.0.25",
@@ -102,11 +106,12 @@
                 "archived": false,
                 "id": 23355681,
                 "language": "C++",
-                "last_commit": "2026-08-27T16:50:32Z",
+                "last_commit": "2026-08-28T18:23:32Z",
                 "owner": "google",
                 "repo": "angle",
                 "stars": 4063
-              }
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             },
             {
               "node_type": "item",
@@ -121,7 +126,8 @@
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
                 "stars": 2847
-              }
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             }
           ],
           "description": "WebGL references",
@@ -143,7 +149,8 @@
                 "owner": "KhronosGroup",
                 "repo": "WebGLDeveloperTools",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             },
             {
               "children": [
@@ -160,7 +167,8 @@
                     "owner": "3Dparallax",
                     "repo": "insight",
                     "stars": 914
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:57:52.439Z"
                 },
                 {
                   "node_type": "item",
@@ -175,7 +183,8 @@
                     "owner": "spite",
                     "repo": "ShaderEditorExtension",
                     "stars": 634
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:57:52.439Z"
                 }
               ],
               "description": null,
@@ -208,7 +217,8 @@
                 "owner": "tsherif",
                 "repo": "webgl2examples",
                 "stars": 577
-              }
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             },
             {
               "node_type": "item",
@@ -223,7 +233,8 @@
                 "owner": "GregStanton",
                 "repo": "webgl2-glsl-primer",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             }
           ],
           "description": null,
@@ -249,7 +260,8 @@
             "owner": "sjfricke",
             "repo": "awesome-webgl",
             "stars": 1528
-          }
+          },
+          "first_seen": "2026-08-28T18:57:52.439Z"
         },
         {
           "children": [
@@ -266,7 +278,8 @@
                 "owner": "piqnt",
                 "repo": "planck.js",
                 "stars": 5275
-              }
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             },
             {
               "node_type": "item",
@@ -281,7 +294,8 @@
                 "owner": "schteppe",
                 "repo": "p2.js",
                 "stars": 2691
-              }
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             },
             {
               "node_type": "item",
@@ -296,7 +310,8 @@
                 "owner": "piqnt",
                 "repo": "stage.js",
                 "stars": 2571
-              }
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             }
           ],
           "description": null,
@@ -320,7 +335,8 @@
                     "owner": "vaneenige",
                     "repo": "phenomenon",
                     "stars": 1841
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:57:52.439Z"
                 }
               ],
               "description": null,
@@ -347,7 +363,8 @@
                 "owner": "MapMetrics",
                 "repo": "mapmetrics-gl",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             }
           ],
           "description": null,
@@ -369,7 +386,8 @@
                 "owner": "hiloteam",
                 "repo": "Hilo3d",
                 "stars": 662
-              }
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             },
             {
               "node_type": "item",
@@ -384,7 +402,8 @@
                 "owner": "emadurandal",
                 "repo": "GLBoost",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             }
           ],
           "description": null,
@@ -406,7 +425,8 @@
                 "owner": "kripken",
                 "repo": "ammo.js",
                 "stars": 4558
-              }
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             }
           ],
           "description": null,
@@ -428,7 +448,8 @@
                 "owner": "capnmidnight",
                 "repo": "Primrose",
                 "stars": 534
-              }
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             },
             {
               "node_type": "group",
@@ -448,7 +469,8 @@
                     "owner": "aframevr",
                     "repo": "awesome-aframe",
                     "stars": 1335
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:57:52.439Z"
                 }
               ]
             }
@@ -472,7 +494,8 @@
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
                 "stars": 5058
-              }
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             },
             {
               "node_type": "item",
@@ -487,7 +510,8 @@
                 "owner": "evanw",
                 "repo": "lightgl.js",
                 "stars": 1570
-              }
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             },
             {
               "node_type": "item",
@@ -502,7 +526,8 @@
                 "owner": "gportelli",
                 "repo": "pocket.gl",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             }
           ],
           "description": null,
@@ -527,8 +552,9 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500456
-          }
+            "stars": 500807
+          },
+          "first_seen": "2026-08-28T18:57:52.439Z"
         },
         {
           "node_type": "item",
@@ -539,11 +565,12 @@
             "archived": false,
             "id": 21958186,
             "language": "Markdown",
-            "last_commit": "2026-08-25T12:55:42Z",
+            "last_commit": "2026-08-28T17:26:39Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17204
-          }
+            "stars": 17211
+          },
+          "first_seen": "2026-08-28T18:57:52.439Z"
         },
         {
           "node_type": "item",
@@ -554,11 +581,12 @@
             "archived": false,
             "id": 7921466,
             "language": "HTML",
-            "last_commit": "2026-08-24T17:35:16Z",
+            "last_commit": "2026-08-28T17:08:24Z",
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7823
-          }
+            "stars": 7825
+          },
+          "first_seen": "2026-08-28T18:57:52.439Z"
         },
         {
           "node_type": "item",
@@ -572,8 +600,9 @@
             "last_commit": "2026-05-11T04:37:02Z",
             "owner": "vinjn",
             "repo": "awesome-vulkan",
-            "stars": 3713
-          }
+            "stars": 3714
+          },
+          "first_seen": "2026-08-28T18:57:52.439Z"
         },
         {
           "node_type": "item",
@@ -588,7 +617,8 @@
             "owner": "eug",
             "repo": "awesome-opengl",
             "stars": 2437
-          }
+          },
+          "first_seen": "2026-08-28T18:57:52.439Z"
         },
         {
           "node_type": "item",
@@ -603,14 +633,15 @@
             "owner": "mattdesl",
             "repo": "graphics-resources",
             "stars": 1853
-          }
+          },
+          "first_seen": "2026-08-28T18:57:52.439Z"
         }
       ],
       "title": "Related lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:52:15.130Z",
+    "last_updated": "2026-08-28T18:57:52.439Z",
     "original_repository_info": {
       "archived": false,
       "id": 77980522,

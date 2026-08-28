@@ -105,7 +105,7 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,063 | 🐛 7 | 🌐 C++ | 📅 2026-08-27 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,063 | 🐛 7 | 🌐 C++ | 📅 2026-08-28 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
 * [WebGL Source Code](https://github.com/KhronosGroup/WebGL) ⭐ 2,847 | 🐛 238 | 🌐 HTML | 📅 2026-08-21 - Source code to both view and contribute.
 * [Khronos Official Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/immersive-web/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
@@ -358,10 +358,10 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,456 | 🐛 105 | 📅 2026-08-21 - Curated list of awesome lists.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,204 | 🐛 14 | 🌐 Markdown | 📅 2026-08-25 - Awesome list about game development.
-* [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,823 | 🐛 330 | 🌐 HTML | 📅 2026-08-24 - Runtime 3D Asset Delivery designed for the web.
-* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,713 | 🐛 5 | 📅 2026-05-11 - Curated list of awesome Vulkan projects and ecosystem.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,807 | 🐛 105 | 📅 2026-08-21 - Curated list of awesome lists.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,211 | 🐛 14 | 🌐 Markdown | 📅 2026-08-28 - Awesome list about game development.
+* [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,825 | 🐛 327 | 🌐 HTML | 📅 2026-08-28 - Runtime 3D Asset Delivery designed for the web.
+* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,714 | 🐛 5 | 📅 2026-05-11 - Curated list of awesome Vulkan projects and ecosystem.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,437 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,853 | 🐛 5 | 📅 2020-12-30 - List of graphic programming resources.
 
@@ -381,4 +381,4 @@ To the extent possible under law, [Spencer Fricke](https://github.com/sjfricke) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

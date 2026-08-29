@@ -140,7 +140,7 @@
                 "open_issues": 7,
                 "owner": "google",
                 "repo": "angle",
-                "stars": 4063,
+                "stars": 4064,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -379,7 +379,7 @@
                 "open_issues": 32,
                 "owner": "piqnt",
                 "repo": "planck.js",
-                "stars": 5275,
+                "stars": 5274,
                 "topics": [
                   "2d",
                   "box2d",
@@ -439,7 +439,7 @@
                 "open_issues": 8,
                 "owner": "piqnt",
                 "repo": "stage.js",
-                "stars": 2571,
+                "stars": 2570,
                 "topics": [
                   "game",
                   "game-2d",
@@ -770,7 +770,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500891,
+            "stars": 501004,
             "topics": [
               "awesome",
               "awesome-list",
@@ -793,7 +793,7 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-08-29T02:14:32Z",
+            "last_commit": "2026-08-29T10:42:24Z",
             "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:29:43.062Z",
+    "last_updated": "2026-08-29T12:48:47.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",

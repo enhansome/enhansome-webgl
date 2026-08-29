@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎓 Daily WebGL tutorials",
+                "homepage": "https://dev.to/lesnitsky",
                 "id": 194667033,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-08-28T07:21:47Z",
+                "open_issues": 4,
                 "owner": "lesnitsky",
                 "repo": "webgl-month",
-                "stars": 226
+                "stars": 226,
+                "topics": [
+                  "3d-rendering",
+                  "beginner",
+                  "code-samples",
+                  "javascript",
+                  "tutorials",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             }
@@ -35,12 +47,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Website for WebGL Insights",
+                "homepage": "http://www.webglinsights.com",
                 "id": 29318465,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2017-07-26T11:24:29Z",
+                "open_issues": 0,
                 "owner": "WebGLInsights",
                 "repo": "WebGLInsights.github.io",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             }
@@ -58,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Official Khronos WebGL Repository",
+                "homepage": null,
                 "id": 5207280,
                 "language": "HTML",
-                "last_commit": "2026-08-21T00:59:27Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:50:14Z",
+                "open_issues": 237,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2847
+                "stars": 2847,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             }
@@ -81,12 +103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A node.js-style module system for GLSL! :sparkles:",
+                "homepage": null,
                 "id": 6995555,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-06-29T02:02:58Z",
+                "open_issues": 63,
                 "owner": "glslify",
                 "repo": "glslify",
-                "stars": 2285
+                "stars": 2285,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             }
@@ -104,12 +131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.",
+                "homepage": "http://angleproject.org",
                 "id": 23355681,
                 "language": "C++",
-                "last_commit": "2026-08-28T18:23:32Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:06:25Z",
+                "open_issues": 7,
                 "owner": "google",
                 "repo": "angle",
-                "stars": 4063
+                "stars": 4063,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             },
@@ -120,12 +152,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Official Khronos WebGL Repository",
+                "homepage": null,
                 "id": 5207280,
                 "language": "HTML",
-                "last_commit": "2026-08-21T00:59:27Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:50:14Z",
+                "open_issues": 237,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2847
+                "stars": 2847,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             }
@@ -143,12 +180,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 36822097,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-02-20T21:10:11Z",
+                "open_issues": 1,
                 "owner": "KhronosGroup",
                 "repo": "WebGLDeveloperTools",
-                "stars": 221
+                "stars": 221,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             },
@@ -161,12 +203,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A helpful Chrome extension for WebGL development",
+                    "homepage": null,
                     "id": 52135330,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2021-09-30T16:30:40Z",
+                    "open_issues": 22,
                     "owner": "3Dparallax",
                     "repo": "insight",
-                    "stars": 914
+                    "stars": 914,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:57:52.439Z"
                 },
@@ -177,12 +224,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Google Chrome DevTools extension to live edit WebGL GLSL shaders",
+                    "homepage": null,
                     "id": 33510422,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-05-01T15:54:13Z",
+                    "open_issues": 12,
                     "owner": "spite",
                     "repo": "ShaderEditorExtension",
-                    "stars": 634
+                    "stars": 634,
+                    "topics": [
+                      "chrome-devtools-extension",
+                      "glsl",
+                      "google-chrome",
+                      "javascript",
+                      "shader-editor",
+                      "webgl"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:57:52.439Z"
                 }
@@ -211,12 +270,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rendering algorithms implemented in raw WebGL 2.",
+                "homepage": null,
                 "id": 85437440,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2018-11-13T11:39:03Z",
+                "open_issues": 2,
                 "owner": "tsherif",
                 "repo": "webgl2examples",
-                "stars": 577
+                "stars": 577,
+                "topics": [
+                  "3d",
+                  "webgl",
+                  "webgl-references",
+                  "webgl2"
+                ]
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             },
@@ -227,12 +296,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Grok WebGL2 and GLSL through a sequence of guided tutorials, each chunked into atomic Q&A cards suitable for spaced repetition, with hands-on projects and solution code integrated throughout.",
+                "homepage": null,
                 "id": 1112836596,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-15T02:34:29Z",
+                "open_issues": 0,
                 "owner": "GregStanton",
                 "repo": "webgl2-glsl-primer",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "creative-coding",
+                  "educational-resources",
+                  "glsl",
+                  "graphics-programming",
+                  "spaced-repetition",
+                  "webgl2"
+                ]
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             }
@@ -254,12 +335,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome WebGL libraries, resources and much more",
+            "homepage": null,
             "id": 77980522,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-04-02T03:35:40Z",
+            "open_issues": 16,
             "owner": "sjfricke",
             "repo": "awesome-webgl",
-            "stars": 1528
+            "stars": 1529,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "glsl-editors",
+              "learning-webgl",
+              "list",
+              "webgl",
+              "webgl-articles",
+              "webgl-programming",
+              "webgl-references",
+              "webgl-spec-sheet",
+              "webgl-tutorials"
+            ]
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
         },
@@ -272,12 +370,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2D JavaScript Physics Engine",
+                "homepage": "http://piqnt.com/planck.js/",
                 "id": 54445812,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-07T12:29:53Z",
+                "open_issues": 32,
                 "owner": "piqnt",
                 "repo": "planck.js",
-                "stars": 5275
+                "stars": 5275,
+                "topics": [
+                  "2d",
+                  "box2d",
+                  "canvas",
+                  "cross-platform",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "html5",
+                  "javascript",
+                  "physics-engine",
+                  "planck",
+                  "planck-js",
+                  "rigid-bodies"
+                ]
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             },
@@ -288,12 +405,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript 2D physics library",
+                "homepage": null,
                 "id": 7957889,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-07-09T03:13:18Z",
+                "open_issues": 106,
                 "owner": "schteppe",
                 "repo": "p2.js",
-                "stars": 2691
+                "stars": 2690,
+                "topics": [
+                  "gamedev",
+                  "physics",
+                  "physics-engine"
+                ]
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             },
@@ -304,12 +430,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2D HTML5 rendering and layout engine for game development",
+                "homepage": "http://piqnt.com/stage.js/",
                 "id": 14096024,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-07T09:57:40Z",
+                "open_issues": 8,
                 "owner": "piqnt",
                 "repo": "stage.js",
-                "stars": 2571
+                "stars": 2571,
+                "topics": [
+                  "game",
+                  "game-2d",
+                  "html5",
+                  "html5-game-development",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             }
@@ -329,12 +466,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "⚡️ A fast 2kB low-level WebGL API.",
+                    "homepage": null,
                     "id": 140527556,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-11-10T18:43:14Z",
+                    "open_issues": 3,
                     "owner": "vaneenige",
                     "repo": "phenomenon",
-                    "stars": 1841
+                    "stars": 1841,
+                    "topics": [
+                      "gpu",
+                      "low-level",
+                      "particles",
+                      "rendering",
+                      "shaders",
+                      "webgl"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:57:52.439Z"
                 }
@@ -357,12 +506,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 949800784,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T07:58:05Z",
+                "open_issues": 1,
                 "owner": "MapMetrics",
                 "repo": "mapmetrics-gl",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             }
@@ -380,12 +534,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎮 A modern Web graphics engine for production 2D and 3D experiences.",
+                "homepage": "https://hilo3d.js.org/",
                 "id": 201173291,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T01:10:57Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:53:03Z",
+                "open_issues": 0,
                 "owner": "hiloteam",
                 "repo": "Hilo3d",
-                "stars": 662
+                "stars": 662,
+                "topics": [
+                  "3d",
+                  "rendering",
+                  "webgl",
+                  "webgpu"
+                ]
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             },
@@ -396,12 +560,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Useful WebGL Library for Small Turning (Outdated, Deprecated to use)",
+                "homepage": null,
                 "id": 38567242,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-05-19T16:37:08Z",
+                "open_issues": 56,
                 "owner": "emadurandal",
                 "repo": "GLBoost",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             }
@@ -419,12 +588,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Direct port of the Bullet physics engine to JavaScript using Emscripten",
+                "homepage": null,
                 "id": 1815807,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-16T19:27:27Z",
+                "open_issues": 175,
                 "owner": "kripken",
                 "repo": "ammo.js",
-                "stars": 4558
+                "stars": 4558,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             }
@@ -442,12 +616,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A syntax-highlighting text editors that renders to an HTML5 Canvas",
+                "homepage": "https://www.primrosevr.com",
                 "id": 28740792,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2025-02-11T05:57:58Z",
+                "open_issues": 9,
                 "owner": "capnmidnight",
                 "repo": "Primrose",
-                "stars": 534
+                "stars": 534,
+                "topics": [
+                  "computer-graphics",
+                  "html5",
+                  "javascript",
+                  "object-oriented",
+                  "syntax-highlighting",
+                  "text-editor",
+                  "text-editor-for-web"
+                ]
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             },
@@ -463,12 +650,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[DISCONTINUED] Collection of awesome resources for the A-Frame WebVR framework.",
+                    "homepage": "https://aframe.io/",
                     "id": 47050970,
                     "language": null,
+                    "license": null,
                     "last_commit": "2017-10-29T22:28:54Z",
+                    "open_issues": 0,
                     "owner": "aframevr",
                     "repo": "awesome-aframe",
-                    "stars": 1335
+                    "stars": 1335,
+                    "topics": [
+                      "aframe",
+                      "threejs",
+                      "virtual-reality",
+                      "virtualreality",
+                      "vr",
+                      "webvr"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:57:52.439Z"
                 }
@@ -488,12 +687,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.",
+                "homepage": "http://turbulenz.com",
                 "id": 9815120,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-05-28T11:56:21Z",
+                "open_issues": 39,
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5058
+                "stars": 5059,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             },
@@ -504,12 +708,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight WebGL library",
+                "homepage": null,
                 "id": 1954949,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-08-25T07:09:47Z",
+                "open_issues": 18,
                 "owner": "evanw",
                 "repo": "lightgl.js",
-                "stars": 1570
+                "stars": 1570,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             },
@@ -520,12 +729,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fully customizable webgl shader sandbox to embed in your pages",
+                "homepage": "http://pocket.gl",
                 "id": 55584610,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2019-04-26T14:14:22Z",
+                "open_issues": 2,
                 "owner": "gportelli",
                 "repo": "pocket.gl",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             }
@@ -547,12 +761,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500807
+            "stars": 500891,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
         },
@@ -563,12 +788,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":video_game: :pencil: A list of Game Development resources to make magic happen.",
+            "homepage": null,
             "id": 21958186,
             "language": "Markdown",
-            "last_commit": "2026-08-28T17:26:39Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:14:32Z",
+            "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17211
+            "stars": 17212,
+            "topics": [
+              "art",
+              "awesome",
+              "awesome-list",
+              "board-games",
+              "curated",
+              "design",
+              "frameworks",
+              "game-design",
+              "game-development",
+              "game-engine",
+              "game-jam",
+              "game-programming",
+              "gamedev",
+              "games",
+              "hacktoberfest",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
         },
@@ -579,12 +826,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "glTF – Runtime 3D Asset Delivery",
+            "homepage": null,
             "id": 7921466,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T17:08:24Z",
+            "open_issues": 327,
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7825
+            "stars": 7826,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
         },
@@ -595,12 +847,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Vulkan ecosystem",
+            "homepage": "https://vinjn.github.io/awesome-vulkan/",
             "id": 51843752,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-11T04:37:02Z",
+            "open_issues": 5,
             "owner": "vinjn",
             "repo": "awesome-vulkan",
-            "stars": 3714
+            "stars": 3714,
+            "topics": [
+              "amd",
+              "arm",
+              "khronos",
+              "nvidia",
+              "opengl",
+              "qualcomm",
+              "vulkan",
+              "vulkan-api",
+              "vulkan-libraries"
+            ]
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
         },
@@ -611,12 +878,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome OpenGL libraries, debuggers and resources.",
+            "homepage": null,
             "id": 37971591,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-09T12:26:55Z",
+            "open_issues": 0,
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2437
+            "stars": 2437,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "computer-graphics",
+              "game-development",
+              "glsl-editors",
+              "graphics-pipeline",
+              "lists",
+              "opengl",
+              "opengl-library",
+              "opengl-tutorial",
+              "video-tutorial"
+            ]
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
         },
@@ -627,12 +911,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":memo: a list of graphic programming resources",
+            "homepage": null,
             "id": 38935281,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-12-30T21:02:56Z",
+            "open_issues": 5,
             "owner": "mattdesl",
             "repo": "graphics-resources",
-            "stars": 1853
+            "stars": 1854,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
         }
@@ -641,15 +930,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:57:52.439Z",
+    "last_updated": "2026-08-29T04:29:43.062Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome WebGL libraries, resources and much more",
+      "homepage": null,
       "id": 77980522,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-04-02T03:35:40Z",
+      "open_issues": 16,
       "owner": "sjfricke",
       "repo": "awesome-webgl",
-      "stars": 1528
+      "stars": 1529,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "glsl-editors",
+        "learning-webgl",
+        "list",
+        "webgl",
+        "webgl-articles",
+        "webgl-programming",
+        "webgl-references",
+        "webgl-spec-sheet",
+        "webgl-tutorials"
+      ]
     },
     "original_repository_sha": "cfd85fd8e83646e9e871c471a57e286b6dcb44a6",
     "enhanced_repository": "enhansome/enhansome-webgl",

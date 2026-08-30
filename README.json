@@ -136,7 +136,7 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T03:06:25Z",
+                "last_commit": "2026-08-30T03:08:24Z",
                 "open_issues": 7,
                 "owner": "google",
                 "repo": "angle",
@@ -475,7 +475,7 @@
                     "open_issues": 3,
                     "owner": "vaneenige",
                     "repo": "phenomenon",
-                    "stars": 1841,
+                    "stars": 1842,
                     "topics": [
                       "gpu",
                       "low-level",
@@ -539,7 +539,7 @@
                 "id": 201173291,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T03:53:03Z",
+                "last_commit": "2026-08-29T16:20:08Z",
                 "open_issues": 0,
                 "owner": "hiloteam",
                 "repo": "Hilo3d",
@@ -696,7 +696,7 @@
                 "open_issues": 39,
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5059,
+                "stars": 5060,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -770,7 +770,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 501004,
+            "stars": 501312,
             "topics": [
               "awesome",
               "awesome-list",
@@ -797,7 +797,7 @@
             "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17212,
+            "stars": 17217,
             "topics": [
               "art",
               "awesome",
@@ -887,7 +887,7 @@
             "open_issues": 0,
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2437,
+            "stars": 2436,
             "topics": [
               "awesome",
               "awesome-list",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:48:47.732Z",
+    "last_updated": "2026-08-30T12:10:05.941Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",

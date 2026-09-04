@@ -136,7 +136,7 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T03:06:32Z",
+                "last_commit": "2026-09-04T11:03:30Z",
                 "open_issues": 7,
                 "owner": "google",
                 "repo": "angle",
@@ -696,7 +696,7 @@
                 "open_issues": 39,
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5061,
+                "stars": 5062,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -767,10 +767,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T02:10:47Z",
-            "open_issues": 105,
+            "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 502556,
+            "stars": 502863,
             "topics": [
               "awesome",
               "awesome-list",
@@ -797,7 +797,7 @@
             "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17243,
+            "stars": 17250,
             "topics": [
               "art",
               "awesome",
@@ -831,8 +831,8 @@
             "id": 7921466,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T15:48:48Z",
-            "open_issues": 330,
+            "last_commit": "2026-09-03T13:24:21Z",
+            "open_issues": 329,
             "owner": "KhronosGroup",
             "repo": "glTF",
             "stars": 7836,
@@ -856,7 +856,7 @@
             "open_issues": 6,
             "owner": "vinjn",
             "repo": "awesome-vulkan",
-            "stars": 3714,
+            "stars": 3715,
             "topics": [
               "amd",
               "arm",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T11:38:13.959Z",
+    "last_updated": "2026-09-04T11:39:24.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",

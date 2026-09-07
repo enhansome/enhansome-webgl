@@ -136,11 +136,11 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T02:19:26Z",
+                "last_commit": "2026-09-07T11:26:26Z",
                 "open_issues": 7,
                 "owner": "google",
                 "repo": "angle",
-                "stars": 4067,
+                "stars": 4068,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -212,7 +212,7 @@
                     "open_issues": 22,
                     "owner": "3Dparallax",
                     "repo": "insight",
-                    "stars": 914,
+                    "stars": 915,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:57:52.439Z"
@@ -439,7 +439,7 @@
                 "open_issues": 8,
                 "owner": "piqnt",
                 "repo": "stage.js",
-                "stars": 2570,
+                "stars": 2569,
                 "topics": [
                   "game",
                   "game-2d",
@@ -597,7 +597,7 @@
                 "open_issues": 176,
                 "owner": "kripken",
                 "repo": "ammo.js",
-                "stars": 4563,
+                "stars": 4564,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -696,7 +696,7 @@
                 "open_issues": 39,
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5063,
+                "stars": 5064,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -770,7 +770,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 503461,
+            "stars": 503844,
             "topics": [
               "awesome",
               "awesome-list",
@@ -797,7 +797,7 @@
             "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17256,
+            "stars": 17261,
             "topics": [
               "art",
               "awesome",
@@ -835,7 +835,7 @@
             "open_issues": 322,
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7836,
+            "stars": 7837,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
@@ -920,7 +920,7 @@
             "open_issues": 5,
             "owner": "mattdesl",
             "repo": "graphics-resources",
-            "stars": 1855,
+            "stars": 1856,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T11:16:54.374Z",
+    "last_updated": "2026-09-07T12:57:35.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",

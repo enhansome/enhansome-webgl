@@ -78,7 +78,7 @@ Processing Unit (GPU).
 
 > Reporting bugs helps everyone in long run
 
-* [Khronos Github Issue Page](https://github.com/KhronosGroup/WebGL/issues) ⭐ 2,851 | 🐛 237 | 🌐 HTML | 📅 2026-09-05 - Spec or Conformance related bugs
+* [Khronos Github Issue Page](https://github.com/KhronosGroup/WebGL/issues) ⭐ 2,854 | 🐛 237 | 🌐 HTML | 📅 2026-09-05 - Spec or Conformance related bugs
 * [Chrome Bug Report](https://bugs.chromium.org/p/chromium/issues/list) - Chrome related bugs
 * [Mozilla BugZilla](https://bugzilla.mozilla.org) - Firefox related bugs
 * [WebKit Bugzilla](https://bugs.webkit.org/enter_bug.cgi?assigned_to=cmarrin%40apple.com\&attachurl=\&blocked=\&bug_file_loc=http%3A%2F%2F\&bug_severity=Normal\&bug_status=NEW\&comment=\&component=WebGL\&contenttypeentry=\&contenttypemethod=autodetect\&contenttypeselection=text%2Fplain\&data=\&dependson=\&description=\&flag_type-1=X\&flag_type-3=X\&form_name=enter_bug\&keywords=\&maketemplate=Remember%20values%20as%20bookmarkable%20template\&op_sys=Mac%20OS%20X%2010.5\&priority=P2\&product=WebKit\&rep_platform=PC\&short_desc=\&version=528%2B%20%28Nightly%20build%29) - Safari related bugs
@@ -105,8 +105,8 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,068 | 🐛 7 | 🌐 C++ | 📅 2026-09-07 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
-* [WebGL Source Code](https://github.com/KhronosGroup/WebGL) ⭐ 2,851 | 🐛 237 | 🌐 HTML | 📅 2026-09-05 - Source code to both view and contribute.
+* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,068 | 🐛 7 | 🌐 C++ | 📅 2026-09-08 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+* [WebGL Source Code](https://github.com/KhronosGroup/WebGL) ⭐ 2,854 | 🐛 237 | 🌐 HTML | 📅 2026-09-05 - Source code to both view and contribute.
 * [Khronos Official Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/immersive-web/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
 * [WebGL Errata](https://www.khronos.org/webgl/wiki/Errata_to_the_WebGL_Specification) - Known bugs in graphics drivers affect the conformance suite, and consequently, portability of code.
@@ -262,9 +262,9 @@ Processing Unit (GPU).
 
 ### 2D
 
-* [Planck.js](https://github.com/shakiba/planck.js) ⭐ 5,277 | 🐛 32 | 🌐 TypeScript | 📅 2026-04-07 - 2D physics engine for cross-platform HTML5 game development.
+* [Planck.js](https://github.com/shakiba/planck.js) ⭐ 5,279 | 🐛 32 | 🌐 TypeScript | 📅 2026-04-07 - 2D physics engine for cross-platform HTML5 game development.
 * [p2.js](https://github.com/schteppe/p2.js) ⭐ 2,690 | 🐛 106 | 🌐 JavaScript | 📅 2022-07-09 - 2D rigid body physics engine written in JavaScript.
-* [Stage.js](https://github.com/shakiba/stage.js) ⭐ 2,569 | 🐛 8 | 🌐 TypeScript | 📅 2026-04-07 - 2D Library for cross-platform HTML5 game development.
+* [Stage.js](https://github.com/shakiba/stage.js) ⭐ 2,570 | 🐛 8 | 🌐 TypeScript | 📅 2026-04-07 - 2D Library for cross-platform HTML5 game development.
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 * [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
 
@@ -294,13 +294,13 @@ Processing Unit (GPU).
 
 ### Rendering
 
-* [Hilo3d](https://github.com/hiloteam/Hilo3d) ⭐ 663 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-06 - WebGL rendering engine for 3D games.
+* [Hilo3d](https://github.com/hiloteam/Hilo3d) ⭐ 664 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-08 - WebGL rendering engine for 3D games.
 * [GLBoost](https://github.com/emadurandal/GLBoost) ⭐ 107 | 🐛 56 | 🌐 JavaScript | 📅 2025-05-19 - Rendering library for 3D graphic geeks.
 * [GrimoireGL](https://grimoire.gl/) - Bridge between Web engineers and CG engineers.
 
 ### Physics
 
-* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,564 | 🐛 176 | 🌐 C++ | 📅 2026-06-16 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,566 | 🐛 176 | 🌐 C++ | 📅 2026-06-16 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Cannon.js](http://schteppe.github.io/cannon.js/) - Lightweight and simple 3D physics engine for the web.
 
 ### WebGL 2
@@ -318,7 +318,7 @@ Processing Unit (GPU).
 
 ### Others
 
-* [Turbulenz](https://github.com/turbulenz/turbulenz_engine) ⭐ 5,064 | 🐛 39 | 🌐 TypeScript | 📅 2023-05-28 - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
+* [Turbulenz](https://github.com/turbulenz/turbulenz_engine) ⭐ 5,067 | 🐛 39 | 🌐 TypeScript | 📅 2023-05-28 - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
 * [Lightgl.js](https://github.com/evanw/lightgl.js) ⭐ 1,571 | 🐛 18 | 🌐 JavaScript | 📅 2022-08-25 - Lightweight and explict library to help prototype.
 * [Pocket.gl](https://github.com/gportelli/pocket.gl) ⭐ 123 | 🐛 2 | 🌐 JavaScript | 📅 2019-04-26 - Fully customizable webgl shader sandbox to embed in your pages.
 * [Babylon.js](https://www.babylonjs.com/) - Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
@@ -358,10 +358,10 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,844 | 🐛 106 | 📅 2026-09-02 - Curated list of awesome lists.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,261 | 🐛 14 | 🌐 Markdown | 📅 2026-09-01 - Awesome list about game development.
-* [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,837 | 🐛 322 | 🌐 HTML | 📅 2026-09-04 - Runtime 3D Asset Delivery designed for the web.
-* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,715 | 🐛 6 | 📅 2026-05-11 - Curated list of awesome Vulkan projects and ecosystem.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,122 | 🐛 106 | 📅 2026-09-02 - Curated list of awesome lists.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,264 | 🐛 14 | 🌐 Markdown | 📅 2026-09-01 - Awesome list about game development.
+* [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,838 | 🐛 323 | 🌐 HTML | 📅 2026-09-04 - Runtime 3D Asset Delivery designed for the web.
+* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,714 | 🐛 6 | 📅 2026-05-11 - Curated list of awesome Vulkan projects and ecosystem.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,437 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,856 | 🐛 5 | 📅 2020-12-30 - List of graphic programming resources.
 
@@ -381,4 +381,4 @@ To the extent possible under law, [Spencer Fricke](https://github.com/sjfricke) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

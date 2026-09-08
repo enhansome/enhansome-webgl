@@ -84,7 +84,7 @@
                 "open_issues": 237,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2851,
+                "stars": 2854,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -136,7 +136,7 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T11:26:26Z",
+                "last_commit": "2026-09-08T08:51:28Z",
                 "open_issues": 7,
                 "owner": "google",
                 "repo": "angle",
@@ -161,7 +161,7 @@
                 "open_issues": 237,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2851,
+                "stars": 2854,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -379,7 +379,7 @@
                 "open_issues": 32,
                 "owner": "piqnt",
                 "repo": "planck.js",
-                "stars": 5277,
+                "stars": 5279,
                 "topics": [
                   "2d",
                   "box2d",
@@ -439,7 +439,7 @@
                 "open_issues": 8,
                 "owner": "piqnt",
                 "repo": "stage.js",
-                "stars": 2569,
+                "stars": 2570,
                 "topics": [
                   "game",
                   "game-2d",
@@ -539,11 +539,11 @@
                 "id": 201173291,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-06T07:12:07Z",
+                "last_commit": "2026-09-08T05:03:08Z",
                 "open_issues": 0,
                 "owner": "hiloteam",
                 "repo": "Hilo3d",
-                "stars": 663,
+                "stars": 664,
                 "topics": [
                   "3d",
                   "rendering",
@@ -597,7 +597,7 @@
                 "open_issues": 176,
                 "owner": "kripken",
                 "repo": "ammo.js",
-                "stars": 4564,
+                "stars": 4566,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -696,7 +696,7 @@
                 "open_issues": 39,
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5064,
+                "stars": 5067,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -770,7 +770,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 503844,
+            "stars": 504122,
             "topics": [
               "awesome",
               "awesome-list",
@@ -797,7 +797,7 @@
             "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17261,
+            "stars": 17264,
             "topics": [
               "art",
               "awesome",
@@ -832,10 +832,10 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T22:30:49Z",
-            "open_issues": 322,
+            "open_issues": 323,
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7837,
+            "stars": 7838,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
@@ -856,7 +856,7 @@
             "open_issues": 6,
             "owner": "vinjn",
             "repo": "awesome-vulkan",
-            "stars": 3715,
+            "stars": 3714,
             "topics": [
               "amd",
               "arm",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T12:57:35.714Z",
+    "last_updated": "2026-09-08T11:39:37.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",

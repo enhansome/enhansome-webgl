@@ -84,7 +84,7 @@
                 "open_issues": 237,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2855,
+                "stars": 2856,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -136,11 +136,11 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T07:46:28Z",
+                "last_commit": "2026-09-10T08:15:27Z",
                 "open_issues": 7,
                 "owner": "google",
                 "repo": "angle",
-                "stars": 4068,
+                "stars": 4069,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -161,7 +161,7 @@
                 "open_issues": 237,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2855,
+                "stars": 2856,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -379,7 +379,7 @@
                 "open_issues": 32,
                 "owner": "piqnt",
                 "repo": "planck.js",
-                "stars": 5279,
+                "stars": 5278,
                 "topics": [
                   "2d",
                   "box2d",
@@ -414,7 +414,7 @@
                 "open_issues": 106,
                 "owner": "schteppe",
                 "repo": "p2.js",
-                "stars": 2690,
+                "stars": 2689,
                 "topics": [
                   "gamedev",
                   "physics",
@@ -475,7 +475,7 @@
                     "open_issues": 3,
                     "owner": "vaneenige",
                     "repo": "phenomenon",
-                    "stars": 1843,
+                    "stars": 1844,
                     "topics": [
                       "gpu",
                       "low-level",
@@ -597,7 +597,7 @@
                 "open_issues": 175,
                 "owner": "kripken",
                 "repo": "ammo.js",
-                "stars": 4567,
+                "stars": 4565,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -659,7 +659,7 @@
                     "open_issues": 0,
                     "owner": "aframevr",
                     "repo": "awesome-aframe",
-                    "stars": 1335,
+                    "stars": 1336,
                     "topics": [
                       "aframe",
                       "threejs",
@@ -696,7 +696,7 @@
                 "open_issues": 39,
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5068,
+                "stars": 5071,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -770,7 +770,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 504420,
+            "stars": 504681,
             "topics": [
               "awesome",
               "awesome-list",
@@ -797,7 +797,7 @@
             "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17268,
+            "stars": 17273,
             "topics": [
               "art",
               "awesome",
@@ -835,7 +835,7 @@
             "open_issues": 323,
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7839,
+            "stars": 7840,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T11:45:57.940Z",
+    "last_updated": "2026-09-10T11:43:33.473Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",

@@ -84,7 +84,7 @@
                 "open_issues": 238,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2857,
+                "stars": 2858,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -136,11 +136,11 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-12T03:06:23Z",
+                "last_commit": "2026-09-13T03:26:24Z",
                 "open_issues": 7,
                 "owner": "google",
                 "repo": "angle",
-                "stars": 4069,
+                "stars": 4070,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -161,7 +161,7 @@
                 "open_issues": 238,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2857,
+                "stars": 2858,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -189,7 +189,7 @@
                 "open_issues": 1,
                 "owner": "KhronosGroup",
                 "repo": "WebGLDeveloperTools",
-                "stars": 221,
+                "stars": 222,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -379,7 +379,7 @@
                 "open_issues": 32,
                 "owner": "piqnt",
                 "repo": "planck.js",
-                "stars": 5279,
+                "stars": 5280,
                 "topics": [
                   "2d",
                   "box2d",
@@ -439,7 +439,7 @@
                 "open_issues": 8,
                 "owner": "piqnt",
                 "repo": "stage.js",
-                "stars": 2570,
+                "stars": 2571,
                 "topics": [
                   "game",
                   "game-2d",
@@ -539,7 +539,7 @@
                 "id": 201173291,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T18:11:39Z",
+                "last_commit": "2026-09-12T16:13:44Z",
                 "open_issues": 0,
                 "owner": "hiloteam",
                 "repo": "Hilo3d",
@@ -696,7 +696,7 @@
                 "open_issues": 39,
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5073,
+                "stars": 5076,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -770,7 +770,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 505292,
+            "stars": 505591,
             "topics": [
               "awesome",
               "awesome-list",
@@ -794,10 +794,10 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-09-01T19:44:33Z",
-            "open_issues": 14,
+            "open_issues": 17,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17288,
+            "stars": 17294,
             "topics": [
               "art",
               "awesome",
@@ -835,7 +835,7 @@
             "open_issues": 317,
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7839,
+            "stars": 7840,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
@@ -856,7 +856,7 @@
             "open_issues": 6,
             "owner": "vinjn",
             "repo": "awesome-vulkan",
-            "stars": 3713,
+            "stars": 3714,
             "topics": [
               "amd",
               "arm",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:11:48.540Z",
+    "last_updated": "2026-09-13T12:14:18.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",

@@ -136,7 +136,7 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-13T03:26:24Z",
+                "last_commit": "2026-09-14T13:08:30Z",
                 "open_issues": 7,
                 "owner": "google",
                 "repo": "angle",
@@ -344,7 +344,7 @@
             "open_issues": 16,
             "owner": "sjfricke",
             "repo": "awesome-webgl",
-            "stars": 1532,
+            "stars": 1533,
             "topics": [
               "awesome",
               "awesome-list",
@@ -439,7 +439,7 @@
                 "open_issues": 8,
                 "owner": "piqnt",
                 "repo": "stage.js",
-                "stars": 2571,
+                "stars": 2569,
                 "topics": [
                   "game",
                   "game-2d",
@@ -696,7 +696,7 @@
                 "open_issues": 39,
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5076,
+                "stars": 5079,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -770,7 +770,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 505591,
+            "stars": 505935,
             "topics": [
               "awesome",
               "awesome-list",
@@ -793,11 +793,11 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-09-01T19:44:33Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-14T12:58:46Z",
+            "open_issues": 15,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17294,
+            "stars": 17301,
             "topics": [
               "art",
               "awesome",
@@ -856,7 +856,7 @@
             "open_issues": 6,
             "owner": "vinjn",
             "repo": "awesome-vulkan",
-            "stars": 3714,
+            "stars": 3715,
             "topics": [
               "amd",
               "arm",
@@ -887,7 +887,7 @@
             "open_issues": 0,
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2438,
+            "stars": 2439,
             "topics": [
               "awesome",
               "awesome-list",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T12:14:18.370Z",
+    "last_updated": "2026-09-14T13:15:32.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",
@@ -942,7 +942,7 @@
       "open_issues": 16,
       "owner": "sjfricke",
       "repo": "awesome-webgl",
-      "stars": 1532,
+      "stars": 1533,
       "topics": [
         "awesome",
         "awesome-list",

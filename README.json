@@ -80,8 +80,8 @@
                 "id": 5207280,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-09-05T01:54:07Z",
-                "open_issues": 238,
+                "last_commit": "2026-09-14T22:15:12Z",
+                "open_issues": 237,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
                 "stars": 2858,
@@ -136,11 +136,11 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T13:08:30Z",
+                "last_commit": "2026-09-15T08:08:28Z",
                 "open_issues": 7,
                 "owner": "google",
                 "repo": "angle",
-                "stars": 4070,
+                "stars": 4072,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -157,8 +157,8 @@
                 "id": 5207280,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-09-05T01:54:07Z",
-                "open_issues": 238,
+                "last_commit": "2026-09-14T22:15:12Z",
+                "open_issues": 237,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
                 "stars": 2858,
@@ -379,7 +379,7 @@
                 "open_issues": 32,
                 "owner": "piqnt",
                 "repo": "planck.js",
-                "stars": 5280,
+                "stars": 5281,
                 "topics": [
                   "2d",
                   "box2d",
@@ -539,11 +539,11 @@
                 "id": 201173291,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T16:13:44Z",
+                "last_commit": "2026-09-15T00:01:35Z",
                 "open_issues": 0,
                 "owner": "hiloteam",
                 "repo": "Hilo3d",
-                "stars": 664,
+                "stars": 665,
                 "topics": [
                   "3d",
                   "rendering",
@@ -597,7 +597,7 @@
                 "open_issues": 175,
                 "owner": "kripken",
                 "repo": "ammo.js",
-                "stars": 4566,
+                "stars": 4567,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -696,7 +696,7 @@
                 "open_issues": 39,
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5079,
+                "stars": 5078,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -770,7 +770,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 505935,
+            "stars": 506216,
             "topics": [
               "awesome",
               "awesome-list",
@@ -797,7 +797,7 @@
             "open_issues": 15,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17301,
+            "stars": 17306,
             "topics": [
               "art",
               "awesome",
@@ -887,7 +887,7 @@
             "open_issues": 0,
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2439,
+            "stars": 2441,
             "topics": [
               "awesome",
               "awesome-list",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T13:15:32.383Z",
+    "last_updated": "2026-09-15T12:01:45.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",

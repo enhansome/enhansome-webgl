@@ -84,7 +84,7 @@
                 "open_issues": 237,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2858,
+                "stars": 2859,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -136,11 +136,11 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T08:08:28Z",
+                "last_commit": "2026-09-16T03:13:26Z",
                 "open_issues": 7,
                 "owner": "google",
                 "repo": "angle",
-                "stars": 4072,
+                "stars": 4073,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -161,7 +161,7 @@
                 "open_issues": 237,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2858,
+                "stars": 2859,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -597,7 +597,7 @@
                 "open_issues": 175,
                 "owner": "kripken",
                 "repo": "ammo.js",
-                "stars": 4567,
+                "stars": 4568,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -770,7 +770,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 506216,
+            "stars": 506570,
             "topics": [
               "awesome",
               "awesome-list",
@@ -797,7 +797,7 @@
             "open_issues": 15,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17306,
+            "stars": 17313,
             "topics": [
               "art",
               "awesome",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T12:01:45.114Z",
+    "last_updated": "2026-09-16T11:57:49.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",

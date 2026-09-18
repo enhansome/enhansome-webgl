@@ -81,10 +81,10 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-09-14T22:15:12Z",
-                "open_issues": 237,
+                "open_issues": 238,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2859,
+                "stars": 2858,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -112,7 +112,7 @@
                 "open_issues": 63,
                 "owner": "glslify",
                 "repo": "glslify",
-                "stars": 2285,
+                "stars": 2286,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -136,11 +136,11 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T11:36:28Z",
+                "last_commit": "2026-09-18T10:50:28Z",
                 "open_issues": 7,
                 "owner": "google",
                 "repo": "angle",
-                "stars": 4077,
+                "stars": 4078,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -158,10 +158,10 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-09-14T22:15:12Z",
-                "open_issues": 237,
+                "open_issues": 238,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2859,
+                "stars": 2858,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -305,7 +305,7 @@
                 "open_issues": 0,
                 "owner": "GregStanton",
                 "repo": "webgl2-glsl-primer",
-                "stars": 73,
+                "stars": 72,
                 "topics": [
                   "creative-coding",
                   "educational-resources",
@@ -379,7 +379,7 @@
                 "open_issues": 32,
                 "owner": "piqnt",
                 "repo": "planck.js",
-                "stars": 5282,
+                "stars": 5283,
                 "topics": [
                   "2d",
                   "box2d",
@@ -414,7 +414,7 @@
                 "open_issues": 106,
                 "owner": "schteppe",
                 "repo": "p2.js",
-                "stars": 2688,
+                "stars": 2689,
                 "topics": [
                   "gamedev",
                   "physics",
@@ -597,7 +597,7 @@
                 "open_issues": 175,
                 "owner": "kripken",
                 "repo": "ammo.js",
-                "stars": 4568,
+                "stars": 4570,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -717,7 +717,7 @@
                 "open_issues": 18,
                 "owner": "evanw",
                 "repo": "lightgl.js",
-                "stars": 1572,
+                "stars": 1573,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -770,7 +770,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 506979,
+            "stars": 507337,
             "topics": [
               "awesome",
               "awesome-list",
@@ -797,7 +797,7 @@
             "open_issues": 15,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17316,
+            "stars": 17326,
             "topics": [
               "art",
               "awesome",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T11:59:30.345Z",
+    "last_updated": "2026-09-18T11:41:39.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",

@@ -136,11 +136,11 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-23T09:40:29Z",
+                "last_commit": "2026-09-24T10:42:29Z",
                 "open_issues": 7,
                 "owner": "google",
                 "repo": "angle",
-                "stars": 4083,
+                "stars": 4084,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -379,7 +379,7 @@
                 "open_issues": 32,
                 "owner": "piqnt",
                 "repo": "planck.js",
-                "stars": 5283,
+                "stars": 5284,
                 "topics": [
                   "2d",
                   "box2d",
@@ -594,7 +594,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-22T22:23:04Z",
-                "open_issues": 175,
+                "open_issues": 177,
                 "owner": "kripken",
                 "repo": "ammo.js",
                 "stars": 4572,
@@ -696,7 +696,7 @@
                 "open_issues": 39,
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5085,
+                "stars": 5087,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -770,7 +770,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 509213,
+            "stars": 509684,
             "topics": [
               "awesome",
               "awesome-list",
@@ -793,11 +793,11 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-09-14T12:58:46Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-23T14:38:21Z",
+            "open_issues": 16,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17351,
+            "stars": 17357,
             "topics": [
               "art",
               "awesome",
@@ -835,7 +835,7 @@
             "open_issues": 317,
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7846,
+            "stars": 7844,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T12:01:28.334Z",
+    "last_updated": "2026-09-24T12:07:30.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",

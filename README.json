@@ -81,10 +81,10 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-09-14T22:15:12Z",
-                "open_issues": 240,
+                "open_issues": 241,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2859,
+                "stars": 2860,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -136,7 +136,7 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T10:42:29Z",
+                "last_commit": "2026-09-25T09:21:30Z",
                 "open_issues": 7,
                 "owner": "google",
                 "repo": "angle",
@@ -158,10 +158,10 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-09-14T22:15:12Z",
-                "open_issues": 240,
+                "open_issues": 241,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2859,
+                "stars": 2860,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -344,7 +344,7 @@
             "open_issues": 18,
             "owner": "sjfricke",
             "repo": "awesome-webgl",
-            "stars": 1536,
+            "stars": 1537,
             "topics": [
               "awesome",
               "awesome-list",
@@ -379,7 +379,7 @@
                 "open_issues": 32,
                 "owner": "piqnt",
                 "repo": "planck.js",
-                "stars": 5284,
+                "stars": 5286,
                 "topics": [
                   "2d",
                   "box2d",
@@ -597,7 +597,7 @@
                 "open_issues": 177,
                 "owner": "kripken",
                 "repo": "ammo.js",
-                "stars": 4572,
+                "stars": 4573,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -767,10 +767,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T02:10:47Z",
-            "open_issues": 106,
+            "open_issues": 107,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 509684,
+            "stars": 510212,
             "topics": [
               "awesome",
               "awesome-list",
@@ -794,10 +794,10 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-09-23T14:38:21Z",
-            "open_issues": 16,
+            "open_issues": 19,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17357,
+            "stars": 17364,
             "topics": [
               "art",
               "awesome",
@@ -832,10 +832,10 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-09-21T20:39:04Z",
-            "open_issues": 317,
+            "open_issues": 318,
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7844,
+            "stars": 7846,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
@@ -856,7 +856,7 @@
             "open_issues": 6,
             "owner": "vinjn",
             "repo": "awesome-vulkan",
-            "stars": 3717,
+            "stars": 3719,
             "topics": [
               "amd",
               "arm",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T12:07:30.714Z",
+    "last_updated": "2026-09-25T12:07:02.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",
@@ -942,7 +942,7 @@
       "open_issues": 18,
       "owner": "sjfricke",
       "repo": "awesome-webgl",
-      "stars": 1536,
+      "stars": 1537,
       "topics": [
         "awesome",
         "awesome-list",

@@ -93,7 +93,7 @@ Processing Unit (GPU).
 >
 > [Official Specs for Open ES Version 2.0.25](https://www.khronos.org/registry/OpenGL/specs/es/2.0/es_full_spec_2.0.pdf)
 
-* [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify](https://github.com/glslify/glslify) ⭐ 2,285 | 🐛 63 | 🌐 JavaScript | 📅 2022-06-29.
+* [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify](https://github.com/glslify/glslify) ⭐ 2,286 | 🐛 63 | 🌐 JavaScript | 📅 2022-06-29.
 * [Fractal Lab](http://hirnsohle.de/test/fractalLab/) - Online fractal explorer allowing you to explore 2D and 2D fractal.
 * [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
 * [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
@@ -105,7 +105,7 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,084 | 🐛 7 | 🌐 C++ | 📅 2026-09-27 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,082 | 🐛 7 | 🌐 C++ | 📅 2026-09-28 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
 * [WebGL Source Code](https://github.com/KhronosGroup/WebGL) ⭐ 2,861 | 🐛 241 | 🌐 HTML | 📅 2026-09-14 - Source code to both view and contribute.
 * [Khronos Official Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/immersive-web/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
@@ -203,7 +203,7 @@ Processing Unit (GPU).
 
 ### Tutorials
 
-* [WebGL 2 Examples](https://github.com/tsherif/webgl2examples) ⭐ 577 | 🐛 2 | 🌐 HTML | 📅 2018-11-13 - Rendering algorithms implemented in raw WebGL 2.
+* [WebGL 2 Examples](https://github.com/tsherif/webgl2examples) ⭐ 578 | 🐛 2 | 🌐 HTML | 📅 2018-11-13 - Rendering algorithms implemented in raw WebGL 2.
 * [WebGL 2 & GLSL Primer: A Zero-to-Hero, Spaced-Repetition Guide](https://github.com/GregStanton/webgl2-glsl-primer) ⭐ 73 | 🐛 0 | 📅 2026-08-15 - Grok WebGL2 and GLSL through a sequence of guided lessons, each chunked into atomic Q\&A cards, with hands-on projects and solution code integrated throughout.
 * [WebGL 2 Fundamentals](https://webgl2fundamentals.org/)- Series of online tutorials with code samples and live demonstrations.
 * [WebGL 2 Samples](http://webglsamples.org/WebGL2Samples/) - Great source of many different WebGL 2 work with very good commenting.
@@ -258,11 +258,11 @@ Processing Unit (GPU).
 
 ## Libraries
 
-> [More detailed information about the different libraries can be found in the Libraries directory.](https://github.com/sjfricke/awesome-webgl/tree/master/Libraries) ⭐ 1,537 | 🐛 19 | 📅 2026-04-02
+> [More detailed information about the different libraries can be found in the Libraries directory.](https://github.com/sjfricke/awesome-webgl/tree/master/Libraries) ⭐ 1,538 | 🐛 19 | 📅 2026-04-02
 
 ### 2D
 
-* [Planck.js](https://github.com/shakiba/planck.js) ⭐ 5,287 | 🐛 32 | 🌐 TypeScript | 📅 2026-09-22 - 2D physics engine for cross-platform HTML5 game development.
+* [Planck.js](https://github.com/shakiba/planck.js) ⭐ 5,286 | 🐛 32 | 🌐 TypeScript | 📅 2026-09-22 - 2D physics engine for cross-platform HTML5 game development.
 * [p2.js](https://github.com/schteppe/p2.js) ⭐ 2,688 | 🐛 106 | 🌐 JavaScript | 📅 2022-07-09 - 2D rigid body physics engine written in JavaScript.
 * [Stage.js](https://github.com/shakiba/stage.js) ⭐ 2,570 | 🐛 8 | 🌐 TypeScript | 📅 2026-04-07 - 2D Library for cross-platform HTML5 game development.
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
@@ -300,7 +300,7 @@ Processing Unit (GPU).
 
 ### Physics
 
-* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,574 | 🐛 177 | 🌐 C++ | 📅 2026-09-22 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,573 | 🐛 177 | 🌐 C++ | 📅 2026-09-22 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Cannon.js](http://schteppe.github.io/cannon.js/) - Lightweight and simple 3D physics engine for the web.
 
 ### WebGL 2
@@ -358,16 +358,16 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,210 | 🐛 107 | 📅 2026-09-02 - Curated list of awesome lists.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,374 | 🐛 19 | 🌐 Markdown | 📅 2026-09-26 - Awesome list about game development.
-* [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,849 | 🐛 319 | 🌐 HTML | 📅 2026-09-25 - Runtime 3D Asset Delivery designed for the web.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,816 | 🐛 106 | 📅 2026-09-02 - Curated list of awesome lists.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,376 | 🐛 21 | 🌐 Markdown | 📅 2026-09-26 - Awesome list about game development.
+* [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,849 | 🐛 316 | 🌐 HTML | 📅 2026-09-27 - Runtime 3D Asset Delivery designed for the web.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,722 | 🐛 6 | 📅 2026-05-11 - Curated list of awesome Vulkan projects and ecosystem.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,444 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,855 | 🐛 5 | 📅 2020-12-30 - List of graphic programming resources.
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/CONTRIBUTING.md) ⭐ 1,537 | 🐛 19 | 📅 2026-04-02 for details.
+Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/CONTRIBUTING.md) ⭐ 1,538 | 🐛 19 | 📅 2026-04-02 for details.
 
 ## Testing
 
@@ -381,4 +381,4 @@ To the extent possible under law, [Spencer Fricke](https://github.com/sjfricke) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._

@@ -136,7 +136,7 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T13:06:34Z",
+                "last_commit": "2026-09-30T12:21:35Z",
                 "open_issues": 7,
                 "owner": "google",
                 "repo": "angle",
@@ -305,7 +305,7 @@
                 "open_issues": 0,
                 "owner": "GregStanton",
                 "repo": "webgl2-glsl-primer",
-                "stars": 73,
+                "stars": 74,
                 "topics": [
                   "creative-coding",
                   "educational-resources",
@@ -414,7 +414,7 @@
                 "open_issues": 106,
                 "owner": "schteppe",
                 "repo": "p2.js",
-                "stars": 2690,
+                "stars": 2691,
                 "topics": [
                   "gamedev",
                   "physics",
@@ -696,7 +696,7 @@
                 "open_issues": 40,
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5091,
+                "stars": 5092,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -770,7 +770,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 512253,
+            "stars": 512682,
             "topics": [
               "awesome",
               "awesome-list",
@@ -797,7 +797,7 @@
             "open_issues": 22,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17382,
+            "stars": 17390,
             "topics": [
               "art",
               "awesome",
@@ -831,11 +831,11 @@
             "id": 7921466,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T09:46:23Z",
-            "open_issues": 312,
+            "last_commit": "2026-09-30T11:59:53Z",
+            "open_issues": 303,
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7849,
+            "stars": 7850,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T13:15:49.994Z",
+    "last_updated": "2026-09-30T12:56:09.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",

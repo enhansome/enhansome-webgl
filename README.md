@@ -93,7 +93,7 @@ Processing Unit (GPU).
 >
 > [Official Specs for Open ES Version 2.0.25](https://www.khronos.org/registry/OpenGL/specs/es/2.0/es_full_spec_2.0.pdf)
 
-* [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify](https://github.com/glslify/glslify) ⭐ 2,286 | 🐛 63 | 🌐 JavaScript | 📅 2022-06-29.
+* [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify](https://github.com/glslify/glslify) ⭐ 2,287 | 🐛 63 | 🌐 JavaScript | 📅 2022-06-29.
 * [Fractal Lab](http://hirnsohle.de/test/fractalLab/) - Online fractal explorer allowing you to explore 2D and 2D fractal.
 * [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
 * [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
@@ -105,7 +105,7 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,082 | 🐛 7 | 🌐 C++ | 📅 2026-10-01 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,084 | 🐛 7 | 🌐 C++ | 📅 2026-10-02 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
 * [WebGL Source Code](https://github.com/KhronosGroup/WebGL) ⭐ 2,863 | 🐛 241 | 🌐 HTML | 📅 2026-09-14 - Source code to both view and contribute.
 * [Khronos Official Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/immersive-web/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
@@ -137,7 +137,7 @@ Processing Unit (GPU).
 #### Chrome Specific Tools/Debugger
 
 * [Webgl Insight](https://github.com/3Dparallax/insight) ⭐ 915 | 🐛 22 | 🌐 JavaScript | 📅 2021-09-30 - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
-* [GLSL Shader Editor Extension](https://github.com/spite/ShaderEditorExtension) ⭐ 635 | 🐛 12 | 🌐 JavaScript | 📅 2017-05-01 - Chrome DevTools extension to help you edit shaders live in the browser.
+* [GLSL Shader Editor Extension](https://github.com/spite/ShaderEditorExtension) ⭐ 636 | 🐛 12 | 🌐 JavaScript | 📅 2017-05-01 - Chrome DevTools extension to help you edit shaders live in the browser.
 * [Spector.js Extension](https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk) - Explore and Troubleshoot your WebGL and WebGL2 scenes easily.
 
 #### Firefox Specific Tools/Debugger
@@ -358,11 +358,11 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,071 | 🐛 106 | 📅 2026-09-02 - Curated list of awesome lists.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,400 | 🐛 25 | 🌐 Markdown | 📅 2026-09-26 - Awesome list about game development.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,521 | 🐛 106 | 📅 2026-09-02 - Curated list of awesome lists.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,404 | 🐛 27 | 🌐 Markdown | 📅 2026-09-26 - Awesome list about game development.
 * [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,850 | 🐛 303 | 🌐 HTML | 📅 2026-09-30 - Runtime 3D Asset Delivery designed for the web.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,724 | 🐛 6 | 📅 2026-05-11 - Curated list of awesome Vulkan projects and ecosystem.
-* [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,445 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
+* [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,446 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,855 | 🐛 5 | 📅 2020-12-30 - List of graphic programming resources.
 
 ## Contributing
@@ -381,4 +381,4 @@ To the extent possible under law, [Spencer Fricke](https://github.com/sjfricke) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

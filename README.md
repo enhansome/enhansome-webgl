@@ -105,7 +105,7 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,085 | 🐛 7 | 🌐 C++ | 📅 2026-10-03 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,086 | 🐛 7 | 🌐 C++ | 📅 2026-10-03 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
 * [WebGL Source Code](https://github.com/KhronosGroup/WebGL) ⭐ 2,862 | 🐛 241 | 🌐 HTML | 📅 2026-09-14 - Source code to both view and contribute.
 * [Khronos Official Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/immersive-web/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
@@ -358,8 +358,8 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,802 | 🐛 106 | 📅 2026-09-02 - Curated list of awesome lists.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,407 | 🐛 27 | 🌐 Markdown | 📅 2026-09-26 - Awesome list about game development.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,908 | 🐛 106 | 📅 2026-09-02 - Curated list of awesome lists.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,410 | 🐛 28 | 🌐 Markdown | 📅 2026-09-26 - Awesome list about game development.
 * [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,850 | 🐛 296 | 🌐 HTML | 📅 2026-10-02 - Runtime 3D Asset Delivery designed for the web.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,724 | 🐛 6 | 📅 2026-05-11 - Curated list of awesome Vulkan projects and ecosystem.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,446 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.

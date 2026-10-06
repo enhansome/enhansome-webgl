@@ -358,8 +358,8 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,371 | 🐛 106 | 📅 2026-09-02 - Curated list of awesome lists.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,435 | 🐛 31 | 🌐 Markdown | 📅 2026-09-26 - Awesome list about game development.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,443 | 🐛 106 | 📅 2026-09-02 - Curated list of awesome lists.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,435 | 🐛 32 | 🌐 Markdown | 📅 2026-09-26 - Awesome list about game development.
 * [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,852 | 🐛 290 | 🌐 HTML | 📅 2026-10-02 - Runtime 3D Asset Delivery designed for the web.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,724 | 🐛 6 | 📅 2026-05-11 - Curated list of awesome Vulkan projects and ecosystem.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,447 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.

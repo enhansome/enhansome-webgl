@@ -105,7 +105,7 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,090 | 🐛 7 | 🌐 C++ | 📅 2026-10-07 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,093 | 🐛 7 | 🌐 C++ | 📅 2026-10-08 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
 * [WebGL Source Code](https://github.com/KhronosGroup/WebGL) ⭐ 2,863 | 🐛 241 | 🌐 HTML | 📅 2026-09-14 - Source code to both view and contribute.
 * [Khronos Official Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/immersive-web/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
@@ -264,7 +264,7 @@ Processing Unit (GPU).
 
 * [Planck.js](https://github.com/shakiba/planck.js) ⭐ 5,291 | 🐛 33 | 🌐 TypeScript | 📅 2026-09-22 - 2D physics engine for cross-platform HTML5 game development.
 * [p2.js](https://github.com/schteppe/p2.js) ⭐ 2,692 | 🐛 106 | 🌐 JavaScript | 📅 2022-07-09 - 2D rigid body physics engine written in JavaScript.
-* [Stage.js](https://github.com/shakiba/stage.js) ⭐ 2,573 | 🐛 8 | 🌐 TypeScript | 📅 2026-04-07 - 2D Library for cross-platform HTML5 game development.
+* [Stage.js](https://github.com/shakiba/stage.js) ⭐ 2,572 | 🐛 8 | 🌐 TypeScript | 📅 2026-04-07 - 2D Library for cross-platform HTML5 game development.
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 * [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
 
@@ -300,7 +300,7 @@ Processing Unit (GPU).
 
 ### Physics
 
-* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,576 | 🐛 177 | 🌐 C++ | 📅 2026-09-22 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,577 | 🐛 177 | 🌐 C++ | 📅 2026-09-22 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Cannon.js](http://schteppe.github.io/cannon.js/) - Lightweight and simple 3D physics engine for the web.
 
 ### WebGL 2
@@ -358,8 +358,8 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,895 | 🐛 106 | 📅 2026-09-02 - Curated list of awesome lists.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,436 | 🐛 32 | 🌐 Markdown | 📅 2026-10-06 - Awesome list about game development.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,386 | 🐛 106 | 📅 2026-09-02 - Curated list of awesome lists.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,446 | 🐛 33 | 🌐 Markdown | 📅 2026-10-07 - Awesome list about game development.
 * [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,851 | 🐛 291 | 🌐 HTML | 📅 2026-10-02 - Runtime 3D Asset Delivery designed for the web.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,721 | 🐛 6 | 📅 2026-05-11 - Curated list of awesome Vulkan projects and ecosystem.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,446 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
@@ -381,4 +381,4 @@ To the extent possible under law, [Spencer Fricke](https://github.com/sjfricke) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

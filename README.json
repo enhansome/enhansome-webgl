@@ -84,7 +84,7 @@
                 "open_issues": 241,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2863,
+                "stars": 2864,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -136,11 +136,11 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T10:46:33Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-09T12:20:30Z",
+                "open_issues": 8,
                 "owner": "google",
                 "repo": "angle",
-                "stars": 4093,
+                "stars": 4095,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -161,7 +161,7 @@
                 "open_issues": 241,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2863,
+                "stars": 2864,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -346,7 +346,7 @@
                 "open_issues": 33,
                 "owner": "piqnt",
                 "repo": "planck.js",
-                "stars": 5291,
+                "stars": 5293,
                 "topics": [
                   "2d",
                   "box2d",
@@ -381,7 +381,7 @@
                 "open_issues": 106,
                 "owner": "schteppe",
                 "repo": "p2.js",
-                "stars": 2692,
+                "stars": 2693,
                 "topics": [
                   "gamedev",
                   "physics",
@@ -406,7 +406,7 @@
                 "open_issues": 8,
                 "owner": "piqnt",
                 "repo": "stage.js",
-                "stars": 2572,
+                "stars": 2573,
                 "topics": [
                   "game",
                   "game-2d",
@@ -663,7 +663,7 @@
                 "open_issues": 40,
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5095,
+                "stars": 5099,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -737,7 +737,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 516386,
+            "stars": 516602,
             "topics": [
               "awesome",
               "awesome-list",
@@ -760,11 +760,11 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-10-07T14:57:01Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-08T17:32:25Z",
+            "open_issues": 34,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17446,
+            "stars": 17454,
             "topics": [
               "art",
               "awesome",
@@ -798,11 +798,11 @@
             "id": 7921466,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T16:32:55Z",
-            "open_issues": 291,
+            "last_commit": "2026-10-08T14:24:58Z",
+            "open_issues": 288,
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7851,
+            "stars": 7850,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
@@ -854,7 +854,7 @@
             "open_issues": 0,
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2446,
+            "stars": 2447,
             "topics": [
               "awesome",
               "awesome-list",
@@ -887,7 +887,7 @@
             "open_issues": 5,
             "owner": "mattdesl",
             "repo": "graphics-resources",
-            "stars": 1856,
+            "stars": 1857,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
@@ -897,7 +897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T13:55:11.707Z",
+    "last_updated": "2026-10-09T13:39:14.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",
@@ -909,7 +909,7 @@
       "open_issues": 21,
       "owner": "sjfricke",
       "repo": "awesome-webgl",
-      "stars": 1539,
+      "stars": 1541,
       "topics": [
         "awesome",
         "awesome-list",

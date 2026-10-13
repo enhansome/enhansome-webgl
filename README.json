@@ -112,7 +112,7 @@
                 "open_issues": 63,
                 "owner": "glslify",
                 "repo": "glslify",
-                "stars": 2288,
+                "stars": 2287,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -136,11 +136,11 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T15:49:27Z",
+                "last_commit": "2026-10-13T13:41:35Z",
                 "open_issues": 8,
                 "owner": "google",
                 "repo": "angle",
-                "stars": 4099,
+                "stars": 4100,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -342,11 +342,11 @@
                 "id": 54445812,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T15:37:06Z",
-                "open_issues": 34,
+                "last_commit": "2026-10-13T13:41:15Z",
+                "open_issues": 32,
                 "owner": "piqnt",
                 "repo": "planck.js",
-                "stars": 5294,
+                "stars": 5293,
                 "topics": [
                   "2d",
                   "box2d",
@@ -381,7 +381,7 @@
                 "open_issues": 106,
                 "owner": "schteppe",
                 "repo": "p2.js",
-                "stars": 2693,
+                "stars": 2692,
                 "topics": [
                   "gamedev",
                   "physics",
@@ -406,7 +406,7 @@
                 "open_issues": 8,
                 "owner": "piqnt",
                 "repo": "stage.js",
-                "stars": 2574,
+                "stars": 2575,
                 "topics": [
                   "game",
                   "game-2d",
@@ -506,8 +506,8 @@
                 "id": 201173291,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-09T16:31:45Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-13T03:03:27Z",
+                "open_issues": 1,
                 "owner": "hiloteam",
                 "repo": "Hilo3d",
                 "stars": 667,
@@ -663,7 +663,7 @@
                 "open_issues": 40,
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5104,
+                "stars": 5105,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -737,7 +737,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 518011,
+            "stars": 518460,
             "topics": [
               "awesome",
               "awesome-list",
@@ -760,11 +760,11 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-10-09T13:42:22Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-13T12:40:35Z",
+            "open_issues": 38,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17471,
+            "stars": 17481,
             "topics": [
               "art",
               "awesome",
@@ -798,11 +798,11 @@
             "id": 7921466,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T15:26:54Z",
-            "open_issues": 291,
+            "last_commit": "2026-10-13T13:37:57Z",
+            "open_issues": 288,
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7853,
+            "stars": 7855,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
@@ -823,7 +823,7 @@
             "open_issues": 8,
             "owner": "vinjn",
             "repo": "awesome-vulkan",
-            "stars": 3723,
+            "stars": 3724,
             "topics": [
               "amd",
               "arm",
@@ -854,7 +854,7 @@
             "open_issues": 0,
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2447,
+            "stars": 2449,
             "topics": [
               "awesome",
               "awesome-list",
@@ -897,7 +897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T15:58:51.065Z",
+    "last_updated": "2026-10-13T14:30:36.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",
@@ -909,7 +909,7 @@
       "open_issues": 21,
       "owner": "sjfricke",
       "repo": "awesome-webgl",
-      "stars": 1542,
+      "stars": 1543,
       "topics": [
         "awesome",
         "awesome-list",

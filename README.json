@@ -136,7 +136,7 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-17T03:24:22Z",
+                "last_commit": "2026-10-18T00:40:22Z",
                 "open_issues": 8,
                 "owner": "google",
                 "repo": "angle",
@@ -229,7 +229,7 @@
                     "id": 33510422,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2017-05-01T15:54:13Z",
+                    "last_commit": "2026-10-17T22:19:35Z",
                     "open_issues": 12,
                     "owner": "spite",
                     "repo": "ShaderEditorExtension",
@@ -342,11 +342,11 @@
                 "id": 54445812,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-15T12:01:18Z",
+                "last_commit": "2026-10-18T10:44:29Z",
                 "open_issues": 32,
                 "owner": "piqnt",
                 "repo": "planck.js",
-                "stars": 5295,
+                "stars": 5297,
                 "topics": [
                   "2d",
                   "box2d",
@@ -406,7 +406,7 @@
                 "open_issues": 8,
                 "owner": "piqnt",
                 "repo": "stage.js",
-                "stars": 2576,
+                "stars": 2575,
                 "topics": [
                   "game",
                   "game-2d",
@@ -506,7 +506,7 @@
                 "id": 201173291,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-14T13:19:30Z",
+                "last_commit": "2026-10-18T05:22:12Z",
                 "open_issues": 0,
                 "owner": "hiloteam",
                 "repo": "Hilo3d",
@@ -564,7 +564,7 @@
                 "open_issues": 177,
                 "owner": "kripken",
                 "repo": "ammo.js",
-                "stars": 4580,
+                "stars": 4582,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -626,7 +626,7 @@
                     "open_issues": 0,
                     "owner": "aframevr",
                     "repo": "awesome-aframe",
-                    "stars": 1337,
+                    "stars": 1338,
                     "topics": [
                       "aframe",
                       "threejs",
@@ -663,7 +663,7 @@
                 "open_issues": 40,
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5110,
+                "stars": 5111,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -737,7 +737,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 520219,
+            "stars": 520717,
             "topics": [
               "awesome",
               "awesome-list",
@@ -761,10 +761,10 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-10-16T13:08:56Z",
-            "open_issues": 41,
+            "open_issues": 46,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17503,
+            "stars": 17508,
             "topics": [
               "art",
               "awesome",
@@ -802,7 +802,7 @@
             "open_issues": 291,
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7860,
+            "stars": 7861,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
@@ -897,7 +897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T11:06:45.443Z",
+    "last_updated": "2026-10-18T11:36:26.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",

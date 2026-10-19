@@ -105,7 +105,7 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,103 | 🐛 8 | 🌐 C++ | 📅 2026-10-18 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,104 | 🐛 8 | 🌐 C++ | 📅 2026-10-19 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
 * [WebGL Source Code](https://github.com/KhronosGroup/WebGL) ⭐ 2,865 | 🐛 241 | 🌐 HTML | 📅 2026-10-14 - Source code to both view and contribute.
 * [Khronos Official Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/immersive-web/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
@@ -203,7 +203,7 @@ Processing Unit (GPU).
 
 ### Tutorials
 
-* [WebGL 2 Examples](https://github.com/tsherif/webgl2examples) ⭐ 578 | 🐛 2 | 🌐 HTML | 📅 2018-11-13 - Rendering algorithms implemented in raw WebGL 2.
+* [WebGL 2 Examples](https://github.com/tsherif/webgl2examples) ⭐ 579 | 🐛 2 | 🌐 HTML | 📅 2018-11-13 - Rendering algorithms implemented in raw WebGL 2.
 * [WebGL 2 & GLSL Primer: A Zero-to-Hero, Spaced-Repetition Guide](https://github.com/GregStanton/webgl2-glsl-primer) ⭐ 74 | 🐛 0 | 📅 2026-08-15 - Grok WebGL2 and GLSL through a sequence of guided lessons, each chunked into atomic Q\&A cards, with hands-on projects and solution code integrated throughout.
 * [WebGL 2 Fundamentals](https://webgl2fundamentals.org/)- Series of online tutorials with code samples and live demonstrations.
 * [WebGL 2 Samples](http://webglsamples.org/WebGL2Samples/) - Great source of many different WebGL 2 work with very good commenting.
@@ -262,7 +262,7 @@ Processing Unit (GPU).
 
 ### 2D
 
-* [Planck.js](https://github.com/shakiba/planck.js) ⭐ 5,297 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-18 - 2D physics engine for cross-platform HTML5 game development.
+* [Planck.js](https://github.com/shakiba/planck.js) ⭐ 5,298 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-18 - 2D physics engine for cross-platform HTML5 game development.
 * [p2.js](https://github.com/schteppe/p2.js) ⭐ 2,693 | 🐛 106 | 🌐 JavaScript | 📅 2022-07-09 - 2D rigid body physics engine written in JavaScript.
 * [Stage.js](https://github.com/shakiba/stage.js) ⭐ 2,575 | 🐛 8 | 🌐 TypeScript | 📅 2026-04-07 - 2D Library for cross-platform HTML5 game development.
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
@@ -300,7 +300,7 @@ Processing Unit (GPU).
 
 ### Physics
 
-* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,582 | 🐛 177 | 🌐 C++ | 📅 2026-09-22 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,581 | 🐛 177 | 🌐 C++ | 📅 2026-09-22 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Cannon.js](http://schteppe.github.io/cannon.js/) - Lightweight and simple 3D physics engine for the web.
 
 ### WebGL 2
@@ -318,7 +318,7 @@ Processing Unit (GPU).
 
 ### Others
 
-* [Turbulenz](https://github.com/turbulenz/turbulenz_engine) ⭐ 5,111 | 🐛 40 | 🌐 TypeScript | 📅 2023-05-28 - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
+* [Turbulenz](https://github.com/turbulenz/turbulenz_engine) ⭐ 5,114 | 🐛 40 | 🌐 TypeScript | 📅 2023-05-28 - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
 * [Lightgl.js](https://github.com/evanw/lightgl.js) ⭐ 1,574 | 🐛 18 | 🌐 JavaScript | 📅 2022-08-25 - Lightweight and explict library to help prototype.
 * [Pocket.gl](https://github.com/gportelli/pocket.gl) ⭐ 123 | 🐛 2 | 🌐 JavaScript | 📅 2019-04-26 - Fully customizable webgl shader sandbox to embed in your pages.
 * [Babylon.js](https://www.babylonjs.com/) - Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
@@ -358,10 +358,10 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,717 | 🐛 105 | 📅 2026-09-02 - Curated list of awesome lists.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,508 | 🐛 46 | 🌐 Markdown | 📅 2026-10-16 - Awesome list about game development.
-* [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,861 | 🐛 291 | 🌐 HTML | 📅 2026-10-13 - Runtime 3D Asset Delivery designed for the web.
-* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,727 | 🐛 8 | 📅 2026-05-11 - Curated list of awesome Vulkan projects and ecosystem.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,275 | 🐛 105 | 📅 2026-09-02 - Curated list of awesome lists.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,519 | 🐛 47 | 🌐 Markdown | 📅 2026-10-16 - Awesome list about game development.
+* [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,861 | 🐛 294 | 🌐 HTML | 📅 2026-10-13 - Runtime 3D Asset Delivery designed for the web.
+* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,726 | 🐛 8 | 📅 2026-05-11 - Curated list of awesome Vulkan projects and ecosystem.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,449 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,857 | 🐛 5 | 📅 2020-12-30 - List of graphic programming resources.
 
@@ -371,7 +371,7 @@ Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/
 
 ## Testing
 
-Travis CI testing automation thanks to [awesome\_bot](https://github.com/dkhamsing/awesome_bot) ⭐ 898 | 🐛 11 | 🌐 Ruby | 📅 2023-04-20!
+Travis CI testing automation thanks to [awesome\_bot](https://github.com/dkhamsing/awesome_bot) ⭐ 899 | 🐛 11 | 🌐 Ruby | 📅 2023-04-20!
 
 ## License
 
@@ -381,4 +381,4 @@ To the extent possible under law, [Spencer Fricke](https://github.com/sjfricke) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._

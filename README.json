@@ -136,11 +136,11 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T09:28:35Z",
+                "last_commit": "2026-10-23T08:30:28Z",
                 "open_issues": 8,
                 "owner": "google",
                 "repo": "angle",
-                "stars": 4106,
+                "stars": 4107,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -233,7 +233,7 @@
                     "open_issues": 12,
                     "owner": "spite",
                     "repo": "ShaderEditorExtension",
-                    "stars": 636,
+                    "stars": 635,
                     "topics": [
                       "chrome-devtools-extension",
                       "glsl",
@@ -342,11 +342,11 @@
                 "id": 54445812,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T06:33:24Z",
-                "open_issues": 32,
+                "last_commit": "2026-10-23T11:12:08Z",
+                "open_issues": 31,
                 "owner": "piqnt",
                 "repo": "planck.js",
-                "stars": 5298,
+                "stars": 5299,
                 "topics": [
                   "2d",
                   "box2d",
@@ -406,7 +406,7 @@
                 "open_issues": 8,
                 "owner": "piqnt",
                 "repo": "stage.js",
-                "stars": 2575,
+                "stars": 2576,
                 "topics": [
                   "game",
                   "game-2d",
@@ -660,10 +660,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2023-05-28T11:56:21Z",
-                "open_issues": 40,
+                "open_issues": 41,
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5118,
+                "stars": 5120,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -737,7 +737,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 522646,
+            "stars": 523388,
             "topics": [
               "awesome",
               "awesome-list",
@@ -760,11 +760,11 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-10-21T16:46:15Z",
-            "open_issues": 45,
+            "last_commit": "2026-10-22T18:24:20Z",
+            "open_issues": 46,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17548,
+            "stars": 17557,
             "topics": [
               "art",
               "awesome",
@@ -802,7 +802,7 @@
             "open_issues": 287,
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7868,
+            "stars": 7869,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
@@ -897,7 +897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T12:17:12.506Z",
+    "last_updated": "2026-10-23T11:58:05.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",

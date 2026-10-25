@@ -84,7 +84,7 @@
                 "open_issues": 242,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2867,
+                "stars": 2868,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -136,7 +136,7 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T03:20:24Z",
+                "last_commit": "2026-10-25T03:19:23Z",
                 "open_issues": 8,
                 "owner": "google",
                 "repo": "angle",
@@ -161,7 +161,7 @@
                 "open_issues": 242,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2867,
+                "stars": 2868,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -193,6 +193,42 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Web3D Viewer",
+              "description": "Single-file OBJ viewer that logs how every MTL texture reference was resolved (exact path, extension-stripped, fuzzy) and which ones failed, so missing materials are traceable instead of silently rendering black.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A powerful Web-based 3D viewer",
+                "homepage": null,
+                "id": 1304855515,
+                "language": "HTML",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-25T05:15:28Z",
+                "open_issues": 0,
+                "owner": "userzz1145141919810-rgb",
+                "repo": "web-3d-viewer",
+                "stars": 2,
+                "topics": [
+                  "3d",
+                  "3d-model",
+                  "3d-viewer",
+                  "javascript",
+                  "model-viewer",
+                  "mtl",
+                  "obj",
+                  "obj-loader",
+                  "offline",
+                  "single-file",
+                  "three-js",
+                  "threejs",
+                  "web-worker",
+                  "webgl"
+                ]
+              },
+              "first_seen": "2026-10-25T11:56:08.655Z"
             },
             {
               "children": [
@@ -346,7 +382,7 @@
                 "open_issues": 31,
                 "owner": "piqnt",
                 "repo": "planck.js",
-                "stars": 5299,
+                "stars": 5300,
                 "topics": [
                   "2d",
                   "box2d",
@@ -406,7 +442,7 @@
                 "open_issues": 8,
                 "owner": "piqnt",
                 "repo": "stage.js",
-                "stars": 2576,
+                "stars": 2577,
                 "topics": [
                   "game",
                   "game-2d",
@@ -424,6 +460,42 @@
         },
         {
           "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Speedy Vision",
+                  "description": "GPU-accelerated Computer Vision library for JavaScript.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "GPU-accelerated Computer Vision library for JavaScript.",
+                    "homepage": null,
+                    "id": 260306364,
+                    "language": "JavaScript",
+                    "license": "Apache-2.0",
+                    "last_commit": "2025-06-20T23:01:27Z",
+                    "open_issues": 7,
+                    "owner": "alemart",
+                    "repo": "speedy-vision",
+                    "stars": 193,
+                    "topics": [
+                      "computer-vision",
+                      "gpgpu",
+                      "gpu",
+                      "image-processing",
+                      "linear-algebra",
+                      "machine-vision",
+                      "opencv"
+                    ]
+                  },
+                  "first_seen": "2026-10-25T11:56:08.655Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Computer Vision"
+            },
             {
               "children": [
                 {
@@ -453,6 +525,33 @@
                     ]
                   },
                   "first_seen": "2026-08-28T18:57:52.439Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "NixieFX",
+                  "description": "Particle and VFX runtime for PixiJS and Three.js, authored in a browser-based editor.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Open-source particle and VFX runtimes for PixiJS and Three.js",
+                    "homepage": "https://nixiefx.com",
+                    "id": 1335269097,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-10-19T12:34:34Z",
+                    "open_issues": 5,
+                    "owner": "azakhary",
+                    "repo": "nixie-fx",
+                    "stars": 19,
+                    "topics": [
+                      "particles",
+                      "pixijs",
+                      "threejs",
+                      "typescript",
+                      "vfx"
+                    ]
+                  },
+                  "first_seen": "2026-10-25T11:56:08.655Z"
                 }
               ],
               "description": null,
@@ -466,6 +565,116 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "TradeCanvas",
+              "description": "Financial charting library that draws candles, indicators and depth heatmaps with WebGL 2, falling back to Canvas 2D.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Trading charts for the web, drawn with Canvas 2D or WebGL: 134 indicators, 69 drawing tools, 18 chart types, live exchange feeds, orders on the chart, replay and backtesting, touch-ready on phones. Zero dependencies. TypeScript, React, Vue, Svelte.",
+                "homepage": "https://tradecanvas.dev",
+                "id": 1205151444,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-25T11:42:51Z",
+                "open_issues": 0,
+                "owner": "bonguynvan",
+                "repo": "tradecanvas",
+                "stars": 28,
+                "topics": [
+                  "backtesting",
+                  "candlestick-chart",
+                  "canvas",
+                  "charting-library",
+                  "crypto",
+                  "data-visualization",
+                  "drawing-tools",
+                  "financial-charts",
+                  "fintech",
+                  "indicators",
+                  "mobile",
+                  "react",
+                  "stock-chart",
+                  "svelte",
+                  "technical-analysis",
+                  "trading",
+                  "trading-chart",
+                  "typescript",
+                  "vue",
+                  "webgl"
+                ]
+              },
+              "first_seen": "2026-10-25T11:56:08.655Z"
+            },
+            {
+              "node_type": "item",
+              "title": "leaflet-webgl-markers",
+              "description": "Leaflet plugin for rendering millions of point markers on a single WebGL canvas, with FBO picking and zero redraw while dragging.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Leaflet WebGL plugin for rendering one million+ (1M) point markers with GPU projection and FBO picking",
+                "homepage": "https://tang-tc.github.io/leaflet-webgl-markers/",
+                "id": 1339197940,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-08-24T04:19:00Z",
+                "open_issues": 0,
+                "owner": "tang-tc",
+                "repo": "leaflet-webgl-markers",
+                "stars": 3,
+                "topics": [
+                  "data-visualization",
+                  "geospatial",
+                  "gis",
+                  "large-data",
+                  "leaflet",
+                  "leaflet-plugin",
+                  "maps",
+                  "markers",
+                  "performance",
+                  "point-cloud",
+                  "typescript",
+                  "visualization",
+                  "web-mapping",
+                  "webgl"
+                ]
+              },
+              "first_seen": "2026-10-25T11:56:08.655Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Globedots",
+              "description": "Dot-matrix globe on WebGL2 in 17 kB, with markers, arcs, labels, heat maps, and a day-night line.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A dot-matrix globe on WebGL2. 18.4 kB gzipped, no dependency, no three.js.  Markers, arcs, paths, bars, rings, labels, per-dot data, heat maps, borders, a day-night line, click and hover events, and picking. The globe draws only when something changes.",
+                "homepage": "https://swamoth.github.io/globedots/",
+                "id": 1376209177,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-18T19:13:12Z",
+                "open_issues": 0,
+                "owner": "swamoth",
+                "repo": "globedots",
+                "stars": 2,
+                "topics": [
+                  "3d-globe",
+                  "data-visualization",
+                  "dot-matrix",
+                  "globe",
+                  "map",
+                  "react",
+                  "three-js-alternative",
+                  "typescript",
+                  "webgl",
+                  "webgl2"
+                ]
+              },
+              "first_seen": "2026-10-25T11:56:08.655Z"
+            },
             {
               "node_type": "item",
               "title": "MapMetrics GL",
@@ -486,6 +695,40 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
+            },
+            {
+              "node_type": "item",
+              "title": "WorldSeed",
+              "description": "Turns open geospatial data into playable, exportable Three.js worlds with terrain-aware roads, GLB, road graphs, spawn points, and versioned JSON Schema.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Turn open geospatial data into playable, exportable 3D worlds with Three.js, GLB, road graphs, colliders, spawn points and JSON Schema.",
+                "homepage": "https://yz4git.github.io/next-gen/",
+                "id": 1339820630,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-25T01:49:49Z",
+                "open_issues": 5,
+                "owner": "yz4git",
+                "repo": "next-gen",
+                "stars": 1,
+                "topics": [
+                  "3d",
+                  "city-generator",
+                  "gamedev",
+                  "geospatial",
+                  "gltf",
+                  "json-schema",
+                  "openstreetmap",
+                  "overturemaps",
+                  "procedural-generation",
+                  "simulation",
+                  "threejs",
+                  "webgl"
+                ]
+              },
+              "first_seen": "2026-10-25T11:56:08.655Z"
             }
           ],
           "description": null,
@@ -506,7 +749,7 @@
                 "id": 201173291,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T15:41:10Z",
+                "last_commit": "2026-10-25T08:58:56Z",
                 "open_issues": 0,
                 "owner": "hiloteam",
                 "repo": "Hilo3d",
@@ -564,7 +807,7 @@
                 "open_issues": 177,
                 "owner": "kripken",
                 "repo": "ammo.js",
-                "stars": 4582,
+                "stars": 4583,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -573,6 +816,146 @@
           "description": null,
           "node_type": "group",
           "title": "Physics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "encantar.js",
+              "description": "GPU-accelerated Augmented Reality library that works on any device (iOS, Android, desktops). Easy to use and requires no WebXR support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "GPU-accelerated Augmented Reality library for the web.",
+                "homepage": "http://encantar.dev/",
+                "id": 484150060,
+                "language": "TypeScript",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-24T03:17:54Z",
+                "open_issues": 0,
+                "owner": "alemart",
+                "repo": "encantar-js",
+                "stars": 125,
+                "topics": [
+                  "aframe",
+                  "ar",
+                  "augmented-reality",
+                  "babylonjs",
+                  "threejs",
+                  "vr",
+                  "webar",
+                  "webgl",
+                  "webxr"
+                ]
+              },
+              "first_seen": "2026-10-25T11:56:08.655Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WebAR"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "textmode.js",
+              "description": "Lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics using WebGL2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "textmode.js is a lightweight creative coding library for creating real-time ASCII art on the web.",
+                "homepage": "https://code.textmode.art",
+                "id": 1019649473,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-21T13:06:39Z",
+                "open_issues": 1,
+                "owner": "humanbydefinition",
+                "repo": "textmode.js",
+                "stars": 174,
+                "topics": [
+                  "art",
+                  "ascii",
+                  "canvas",
+                  "creative-coding",
+                  "design",
+                  "graphics",
+                  "petscii",
+                  "textmode",
+                  "webgl"
+                ]
+              },
+              "first_seen": "2026-10-25T11:56:08.655Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Vysmo Transitions",
+              "description": "Tree-shakable WebGL 2 library of 60 endpoint-correct transitions with mesh and multi-pass support, ~5 KB gzipped.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "WebGL transitions, text animation, scroll effects, and more - MIT libraries.",
+                "homepage": "https://vysmo.com",
+                "id": 1228905311,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-05-20T23:11:31Z",
+                "open_issues": 0,
+                "owner": "vysmodev",
+                "repo": "vysmo",
+                "stars": 9,
+                "topics": [
+                  "animation",
+                  "mit",
+                  "react",
+                  "scroll",
+                  "shaders",
+                  "text-animation",
+                  "transitions",
+                  "typescript",
+                  "webgl",
+                  "webgl2"
+                ]
+              },
+              "first_seen": "2026-10-25T11:56:08.655Z"
+            },
+            {
+              "node_type": "item",
+              "title": "dither-flow",
+              "description": "Cursor-stirred 1-bit dithered flow field, WebGL 2 only, zero dependencies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A 1-bit dithered flow field for the web — cursor-stirred ink, curl-noise advection, Bayer ordered dithering. Raw WebGL2, zero dependencies.",
+                "homepage": "https://caleblemos.github.io/dither-flow/",
+                "id": 1339923166,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:40:09Z",
+                "open_issues": 0,
+                "owner": "caleblemos",
+                "repo": "dither-flow",
+                "stars": 1,
+                "topics": [
+                  "1-bit",
+                  "bayer",
+                  "creative-coding",
+                  "curl-noise",
+                  "dithering",
+                  "flow-field",
+                  "ordered-dithering",
+                  "shaders",
+                  "webgl",
+                  "webgl2"
+                ]
+              },
+              "first_seen": "2026-10-25T11:56:08.655Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WebGL 2"
         },
         {
           "children": [
@@ -649,6 +1032,38 @@
           "children": [
             {
               "node_type": "item",
+              "title": "img2threejs",
+              "description": "Toolkit that rebuilds the object in a reference image as a code-only, procedural Three.js model - primitives, procedural shaders, generated geometry, no downloaded meshes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+                "homepage": "https://img2threejs.io",
+                "id": 1301140808,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-21T08:27:20Z",
+                "open_issues": 112,
+                "owner": "img2threejs",
+                "repo": "img2threejs",
+                "stars": 19212,
+                "topics": [
+                  "3d",
+                  "ai-agents",
+                  "claude-code",
+                  "computer-graphics",
+                  "generative",
+                  "image-to-3d",
+                  "procedural-generation",
+                  "threejs",
+                  "typescript",
+                  "webgl"
+                ]
+              },
+              "first_seen": "2026-10-25T11:56:08.655Z"
+            },
+            {
+              "node_type": "item",
               "title": "Turbulenz",
               "description": "Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.",
               "children": [],
@@ -663,7 +1078,7 @@
                 "open_issues": 41,
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5120,
+                "stars": 5122,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -737,7 +1152,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 523886,
+            "stars": 524448,
             "topics": [
               "awesome",
               "awesome-list",
@@ -764,7 +1179,7 @@
             "open_issues": 48,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17570,
+            "stars": 17577,
             "topics": [
               "art",
               "awesome",
@@ -802,7 +1217,7 @@
             "open_issues": 288,
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7868,
+            "stars": 7870,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
@@ -854,7 +1269,7 @@
             "open_issues": 0,
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2451,
+            "stars": 2452,
             "topics": [
               "awesome",
               "awesome-list",
@@ -897,7 +1312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T11:29:05.442Z",
+    "last_updated": "2026-10-25T11:56:08.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",
@@ -905,11 +1320,11 @@
       "id": 77980522,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-04-02T03:35:40Z",
-      "open_issues": 22,
+      "last_commit": "2026-10-24T20:01:44Z",
+      "open_issues": 5,
       "owner": "sjfricke",
       "repo": "awesome-webgl",
-      "stars": 1543,
+      "stars": 1544,
       "topics": [
         "awesome",
         "awesome-list",
@@ -924,7 +1339,7 @@
         "webgl-tutorials"
       ]
     },
-    "original_repository_sha": "cfd85fd8e83646e9e871c471a57e286b6dcb44a6",
+    "original_repository_sha": "d14bd09310f36ceb8ba128deb2ed452da766a33f",
     "enhanced_repository": "enhansome/enhansome-webgl",
     "enhanced_repository_description": null,
     "title": "Awesome WebGL with stars"

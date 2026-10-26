@@ -136,11 +136,11 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-25T03:19:23Z",
+                "last_commit": "2026-10-26T10:51:28Z",
                 "open_issues": 8,
                 "owner": "google",
                 "repo": "angle",
-                "stars": 4107,
+                "stars": 4108,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -193,42 +193,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Web3D Viewer",
-              "description": "Single-file OBJ viewer that logs how every MTL texture reference was resolved (exact path, extension-stripped, fuzzy) and which ones failed, so missing materials are traceable instead of silently rendering black.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A powerful Web-based 3D viewer",
-                "homepage": null,
-                "id": 1304855515,
-                "language": "HTML",
-                "license": "GPL-3.0",
-                "last_commit": "2026-10-25T05:15:28Z",
-                "open_issues": 0,
-                "owner": "userzz1145141919810-rgb",
-                "repo": "web-3d-viewer",
-                "stars": 2,
-                "topics": [
-                  "3d",
-                  "3d-model",
-                  "3d-viewer",
-                  "javascript",
-                  "model-viewer",
-                  "mtl",
-                  "obj",
-                  "obj-loader",
-                  "offline",
-                  "single-file",
-                  "three-js",
-                  "threejs",
-                  "web-worker",
-                  "webgl"
-                ]
-              },
-              "first_seen": "2026-10-25T11:56:08.655Z"
             },
             {
               "children": [
@@ -382,7 +346,7 @@
                 "open_issues": 31,
                 "owner": "piqnt",
                 "repo": "planck.js",
-                "stars": 5300,
+                "stars": 5301,
                 "topics": [
                   "2d",
                   "box2d",
@@ -442,7 +406,7 @@
                 "open_issues": 8,
                 "owner": "piqnt",
                 "repo": "stage.js",
-                "stars": 2577,
+                "stars": 2578,
                 "topics": [
                   "game",
                   "game-2d",
@@ -542,7 +506,7 @@
                     "open_issues": 5,
                     "owner": "azakhary",
                     "repo": "nixie-fx",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": [
                       "particles",
                       "pixijs",
@@ -577,11 +541,11 @@
                 "id": 1205151444,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-25T11:42:51Z",
+                "last_commit": "2026-10-26T10:34:39Z",
                 "open_issues": 0,
                 "owner": "bonguynvan",
                 "repo": "tradecanvas",
-                "stars": 28,
+                "stars": 29,
                 "topics": [
                   "backtesting",
                   "candlestick-chart",
@@ -708,8 +672,8 @@
                 "id": 1339820630,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-25T01:49:49Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-25T15:06:44Z",
+                "open_issues": 4,
                 "owner": "yz4git",
                 "repo": "next-gen",
                 "stars": 1,
@@ -1046,7 +1010,7 @@
                 "open_issues": 112,
                 "owner": "img2threejs",
                 "repo": "img2threejs",
-                "stars": 19212,
+                "stars": 19297,
                 "topics": [
                   "3d",
                   "ai-agents",
@@ -1078,7 +1042,7 @@
                 "open_issues": 41,
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5122,
+                "stars": 5124,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -1152,7 +1116,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 524448,
+            "stars": 524963,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1175,11 +1139,11 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-10-23T21:19:07Z",
+            "last_commit": "2026-10-26T12:38:55Z",
             "open_issues": 48,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17577,
+            "stars": 17588,
             "topics": [
               "art",
               "awesome",
@@ -1217,7 +1181,7 @@
             "open_issues": 288,
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7870,
+            "stars": 7869,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
@@ -1238,7 +1202,7 @@
             "open_issues": 8,
             "owner": "vinjn",
             "repo": "awesome-vulkan",
-            "stars": 3727,
+            "stars": 3729,
             "topics": [
               "amd",
               "arm",
@@ -1269,7 +1233,7 @@
             "open_issues": 0,
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2452,
+            "stars": 2453,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1312,7 +1276,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T11:56:08.655Z",
+    "last_updated": "2026-10-26T13:28:25.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",
@@ -1320,11 +1284,11 @@
       "id": 77980522,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-24T20:01:44Z",
-      "open_issues": 5,
+      "last_commit": "2026-10-26T01:39:48Z",
+      "open_issues": 4,
       "owner": "sjfricke",
       "repo": "awesome-webgl",
-      "stars": 1544,
+      "stars": 1545,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1339,7 +1303,7 @@
         "webgl-tutorials"
       ]
     },
-    "original_repository_sha": "d14bd09310f36ceb8ba128deb2ed452da766a33f",
+    "original_repository_sha": "0ff637abd1bf23c3490771fd8102a225d425c395",
     "enhanced_repository": "enhansome/enhansome-webgl",
     "enhanced_repository_description": null,
     "title": "Awesome WebGL with stars"

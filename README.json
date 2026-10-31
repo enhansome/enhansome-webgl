@@ -84,7 +84,7 @@
                 "open_issues": 244,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2870,
+                "stars": 2871,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -136,11 +136,11 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T12:08:27Z",
+                "last_commit": "2026-10-31T05:38:26Z",
                 "open_issues": 9,
                 "owner": "google",
                 "repo": "angle",
-                "stars": 4109,
+                "stars": 4108,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -161,7 +161,7 @@
                 "open_issues": 244,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2870,
+                "stars": 2871,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -279,7 +279,7 @@
                 "open_issues": 2,
                 "owner": "tsherif",
                 "repo": "webgl2examples",
-                "stars": 580,
+                "stars": 579,
                 "topics": [
                   "3d",
                   "webgl",
@@ -346,7 +346,7 @@
                 "open_issues": 31,
                 "owner": "piqnt",
                 "repo": "planck.js",
-                "stars": 5300,
+                "stars": 5301,
                 "topics": [
                   "2d",
                   "box2d",
@@ -713,8 +713,8 @@
                 "id": 201173291,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-29T06:23:56Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-30T20:18:59Z",
+                "open_issues": 0,
                 "owner": "hiloteam",
                 "repo": "Hilo3d",
                 "stars": 667,
@@ -833,7 +833,7 @@
                 "id": 1019649473,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T13:06:39Z",
+                "last_commit": "2026-10-31T02:54:04Z",
                 "open_issues": 1,
                 "owner": "humanbydefinition",
                 "repo": "textmode.js",
@@ -1010,7 +1010,7 @@
                 "open_issues": 115,
                 "owner": "img2threejs",
                 "repo": "img2threejs",
-                "stars": 19847,
+                "stars": 19914,
                 "topics": [
                   "3d",
                   "ai-agents",
@@ -1116,7 +1116,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 527182,
+            "stars": 527769,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1139,11 +1139,11 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-10-30T00:24:27Z",
-            "open_issues": 44,
+            "last_commit": "2026-10-30T13:54:05Z",
+            "open_issues": 43,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17644,
+            "stars": 17648,
             "topics": [
               "art",
               "awesome",
@@ -1177,11 +1177,11 @@
             "id": 7921466,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T18:38:25Z",
+            "last_commit": "2026-10-30T15:22:00Z",
             "open_issues": 284,
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7875,
+            "stars": 7876,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
@@ -1276,7 +1276,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T13:25:19.799Z",
+    "last_updated": "2026-10-31T12:58:35.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",

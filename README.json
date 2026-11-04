@@ -136,11 +136,11 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T14:22:38Z",
+                "last_commit": "2026-11-04T12:47:38Z",
                 "open_issues": 9,
                 "owner": "google",
                 "repo": "angle",
-                "stars": 4111,
+                "stars": 4110,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -346,7 +346,7 @@
                 "open_issues": 31,
                 "owner": "piqnt",
                 "repo": "planck.js",
-                "stars": 5301,
+                "stars": 5302,
                 "topics": [
                   "2d",
                   "box2d",
@@ -541,11 +541,11 @@
                 "id": 1205151444,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-03T14:31:45Z",
+                "last_commit": "2026-11-04T13:37:27Z",
                 "open_issues": 0,
                 "owner": "bonguynvan",
                 "repo": "tradecanvas",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "backtesting",
                   "candlestick-chart",
@@ -1006,11 +1006,11 @@
                 "id": 1301140808,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T03:15:04Z",
-                "open_issues": 120,
+                "last_commit": "2026-11-04T12:51:10Z",
+                "open_issues": 124,
                 "owner": "img2threejs",
                 "repo": "img2threejs",
-                "stars": 20174,
+                "stars": 20250,
                 "topics": [
                   "3d",
                   "ai-agents",
@@ -1042,7 +1042,7 @@
                 "open_issues": 41,
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5130,
+                "stars": 5131,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -1116,7 +1116,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 530063,
+            "stars": 530728,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1139,11 +1139,11 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-11-03T13:34:36Z",
+            "last_commit": "2026-11-04T12:55:53Z",
             "open_issues": 45,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17673,
+            "stars": 17682,
             "topics": [
               "art",
               "awesome",
@@ -1177,11 +1177,11 @@
             "id": 7921466,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T08:24:09Z",
-            "open_issues": 285,
+            "last_commit": "2026-11-03T16:14:38Z",
+            "open_issues": 286,
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7881,
+            "stars": 7880,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
@@ -1202,7 +1202,7 @@
             "open_issues": 9,
             "owner": "vinjn",
             "repo": "awesome-vulkan",
-            "stars": 3730,
+            "stars": 3731,
             "topics": [
               "amd",
               "arm",
@@ -1276,7 +1276,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T14:35:02.640Z",
+    "last_updated": "2026-11-04T14:49:09.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",
@@ -1285,7 +1285,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-26T01:39:48Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "sjfricke",
       "repo": "awesome-webgl",
       "stars": 1545,

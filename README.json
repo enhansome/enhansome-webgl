@@ -7,41 +7,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "WebGL Month",
-              "description": "Daily WebGL tutorial for a month.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🎓 Daily WebGL tutorials",
-                "homepage": "https://dev.to/lesnitsky",
-                "id": 194667033,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2024-08-28T07:21:47Z",
-                "open_issues": 4,
-                "owner": "lesnitsky",
-                "repo": "webgl-month",
-                "stars": 226,
-                "topics": [
-                  "3d-rendering",
-                  "beginner",
-                  "code-samples",
-                  "javascript",
-                  "tutorials",
-                  "webgl"
-                ]
-              },
-              "first_seen": "2026-08-28T18:57:52.439Z"
-            }
-          ],
-          "description": "Blog series of WebGL topics",
-          "node_type": "group",
-          "title": "Blog Series"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
               "title": "WebGL Insights",
               "description": "by Patrick Cozzi - Presents real-world techniques for intermediate and advanced WebGL developers by assembling contributions from experienced WebGL engine and application developers, GPU vendors, browser developers, researchers, and educators.",
               "children": [],
@@ -98,34 +63,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GLSLbin",
-              "description": "Fragment shader sandbox supporting glslify.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A node.js-style module system for GLSL! :sparkles:",
-                "homepage": null,
-                "id": 6995555,
-                "language": "JavaScript",
-                "license": "NOASSERTION",
-                "last_commit": "2022-06-29T02:02:58Z",
-                "open_issues": 63,
-                "owner": "glslify",
-                "repo": "glslify",
-                "stars": 2287,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T18:57:52.439Z"
-            }
-          ],
-          "description": "Online GLSL EditorsNOTE: WebGL must conform to The OpenGL ES Shading Language, Version 1.00Official Specs for GLSL Version 1.00Official Specs for Open ES Version 2.0.25",
-          "node_type": "group",
-          "title": "GLSL Editors"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
               "title": "Google Project ANGLE",
               "description": "Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.",
               "children": [],
@@ -136,11 +73,11 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T09:49:30Z",
+                "last_commit": "2026-11-15T04:13:55Z",
                 "open_issues": 9,
                 "owner": "google",
                 "repo": "angle",
-                "stars": 4121,
+                "stars": 4122,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -254,12 +191,47 @@
           "description": "Tools for development and debugging WebGL",
           "node_type": "group",
           "title": "Tools/Debugging"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WebGL Month",
+              "description": "Daily WebGL tutorial for a month.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🎓 Daily WebGL tutorials",
+                "homepage": "https://dev.to/lesnitsky",
+                "id": 194667033,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2024-08-28T07:21:47Z",
+                "open_issues": 4,
+                "owner": "lesnitsky",
+                "repo": "webgl-month",
+                "stars": 226,
+                "topics": [
+                  "3d-rendering",
+                  "beginner",
+                  "code-samples",
+                  "javascript",
+                  "tutorials",
+                  "webgl"
+                ]
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
+            }
+          ],
+          "description": "Online WebGL Tutorials (non-video)",
+          "node_type": "group",
+          "title": "Tutorials"
         }
       ],
       "title": "WebGL"
     },
     {
-      "description": "Information about the upcoming WebGL 2 specsAnything pertaining to WebGL in general is found in the WebGL section",
+      "description": "Information about WebGL 2, the OpenGL ES 3.0 based successor to WebGL 1Anything pertaining to WebGL in general is found in the WebGL section",
       "items": [
         {
           "children": [
@@ -318,12 +290,89 @@
               "first_seen": "2026-08-28T18:57:52.439Z"
             }
           ],
-          "description": null,
+          "description": "WebGL 2 tutorials (non-video)",
           "node_type": "group",
           "title": "Tutorials"
         }
       ],
       "title": "WebGL 2"
+    },
+    {
+      "description": "Information about immersive web development. WebVR was superseded by the WebXR Device API; the WebVR items below are kept for historical reference.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Primrose",
+              "description": "Rapidly prototype VR applications in your browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A syntax-highlighting text editors that renders to an HTML5 Canvas",
+                "homepage": "https://www.primrosevr.com",
+                "id": 28740792,
+                "language": "JavaScript",
+                "license": "NOASSERTION",
+                "last_commit": "2025-02-11T05:57:58Z",
+                "open_issues": 9,
+                "owner": "capnmidnight",
+                "repo": "Primrose",
+                "stars": 535,
+                "topics": [
+                  "computer-graphics",
+                  "html5",
+                  "javascript",
+                  "object-oriented",
+                  "syntax-highlighting",
+                  "text-editor",
+                  "text-editor-for-web"
+                ]
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
+            },
+            {
+              "node_type": "group",
+              "title": "A-Frame",
+              "description": "Web framework for building virtual reality experiences.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Awesome-AFrame",
+                  "description": "aframevr/awesome-aframe",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[DISCONTINUED] Collection of awesome resources for the A-Frame WebVR framework.",
+                    "homepage": "https://aframe.io/",
+                    "id": 47050970,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2017-10-29T22:28:54Z",
+                    "open_issues": 0,
+                    "owner": "aframevr",
+                    "repo": "awesome-aframe",
+                    "stars": 1337,
+                    "topics": [
+                      "aframe",
+                      "threejs",
+                      "virtual-reality",
+                      "virtualreality",
+                      "vr",
+                      "webvr"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T18:57:52.439Z"
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Frameworks"
+        }
+      ],
+      "title": "WebXR / WebVR"
     },
     {
       "description": null,
@@ -332,87 +381,26 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Planck.js",
-              "description": "2D physics engine for cross-platform HTML5 game development.",
+              "title": "Hilo3d",
+              "description": "WebGL rendering engine for 3D games.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "2D JavaScript Physics Engine",
-                "homepage": "http://piqnt.com/planck.js/",
-                "id": 54445812,
+                "description": "🎮 A modern Web graphics engine for production 2D and 3D experiences.",
+                "homepage": "https://hilo3d.js.org/",
+                "id": 201173291,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-14T10:34:08Z",
-                "open_issues": 31,
-                "owner": "piqnt",
-                "repo": "planck.js",
-                "stars": 5321,
+                "last_commit": "2026-11-12T02:28:12Z",
+                "open_issues": 0,
+                "owner": "hiloteam",
+                "repo": "Hilo3d",
+                "stars": 668,
                 "topics": [
-                  "2d",
-                  "box2d",
-                  "canvas",
-                  "cross-platform",
-                  "game-development",
-                  "game-engine",
-                  "gamedev",
-                  "html5",
-                  "javascript",
-                  "physics-engine",
-                  "planck",
-                  "planck-js",
-                  "rigid-bodies"
-                ]
-              },
-              "first_seen": "2026-08-28T18:57:52.439Z"
-            },
-            {
-              "node_type": "item",
-              "title": "p2.js",
-              "description": "2D rigid body physics engine written in JavaScript.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "JavaScript 2D physics library",
-                "homepage": null,
-                "id": 7957889,
-                "language": "JavaScript",
-                "license": "NOASSERTION",
-                "last_commit": "2022-07-09T03:13:18Z",
-                "open_issues": 106,
-                "owner": "schteppe",
-                "repo": "p2.js",
-                "stars": 2694,
-                "topics": [
-                  "gamedev",
-                  "physics",
-                  "physics-engine"
-                ]
-              },
-              "first_seen": "2026-08-28T18:57:52.439Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Stage.js",
-              "description": "2D Library for cross-platform HTML5 game development.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "2D HTML5 rendering and layout engine for game development",
-                "homepage": "http://piqnt.com/stage.js/",
-                "id": 14096024,
-                "language": "TypeScript",
-                "license": "NOASSERTION",
-                "last_commit": "2026-04-07T09:57:40Z",
-                "open_issues": 8,
-                "owner": "piqnt",
-                "repo": "stage.js",
-                "stars": 2579,
-                "topics": [
-                  "game",
-                  "game-2d",
-                  "html5",
-                  "html5-game-development",
-                  "javascript"
+                  "3d",
+                  "rendering",
+                  "webgl",
+                  "webgpu"
                 ]
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -420,112 +408,105 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "2D"
+          "title": "Engines and Frameworks"
         },
         {
           "children": [
             {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Speedy Vision",
-                  "description": "GPU-accelerated Computer Vision library for JavaScript.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "GPU-accelerated Computer Vision library for JavaScript.",
-                    "homepage": null,
-                    "id": 260306364,
-                    "language": "JavaScript",
-                    "license": "Apache-2.0",
-                    "last_commit": "2025-06-20T23:01:27Z",
-                    "open_issues": 7,
-                    "owner": "alemart",
-                    "repo": "speedy-vision",
-                    "stars": 193,
-                    "topics": [
-                      "computer-vision",
-                      "gpgpu",
-                      "gpu",
-                      "image-processing",
-                      "linear-algebra",
-                      "machine-vision",
-                      "opencv"
-                    ]
-                  },
-                  "first_seen": "2026-10-25T11:56:08.655Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Computer Vision"
+              "node_type": "item",
+              "title": "Lightgl.js",
+              "description": "Lightweight and explict library to help prototype.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A lightweight WebGL library",
+                "homepage": null,
+                "id": 1954949,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2022-08-25T07:09:47Z",
+                "open_issues": 18,
+                "owner": "evanw",
+                "repo": "lightgl.js",
+                "stars": 1572,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             },
             {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Phenomenon",
-                  "description": "Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "⚡️ A fast 2kB low-level WebGL API.",
-                    "homepage": null,
-                    "id": 140527556,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2023-11-10T18:43:14Z",
-                    "open_issues": 3,
-                    "owner": "vaneenige",
-                    "repo": "phenomenon",
-                    "stars": 1848,
-                    "topics": [
-                      "gpu",
-                      "low-level",
-                      "particles",
-                      "rendering",
-                      "shaders",
-                      "webgl"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:57:52.439Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "NixieFX",
-                  "description": "Particle and VFX runtime for PixiJS and Three.js, authored in a browser-based editor.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Open-source particle and VFX runtimes for PixiJS and Three.js",
-                    "homepage": "https://nixiefx.com",
-                    "id": 1335269097,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-11-05T16:41:16Z",
-                    "open_issues": 5,
-                    "owner": "azakhary",
-                    "repo": "nixie-fx",
-                    "stars": 27,
-                    "topics": [
-                      "particles",
-                      "pixijs",
-                      "threejs",
-                      "typescript",
-                      "vfx"
-                    ]
-                  },
-                  "first_seen": "2026-10-25T11:56:08.655Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Particles"
+              "node_type": "item",
+              "title": "Pocket.gl",
+              "description": "Fully customizable webgl shader sandbox to embed in your pages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A fully customizable webgl shader sandbox to embed in your pages",
+                "homepage": "http://pocket.gl",
+                "id": 55584610,
+                "language": "JavaScript",
+                "license": "GPL-3.0",
+                "last_commit": "2019-04-26T14:14:22Z",
+                "open_issues": 2,
+                "owner": "gportelli",
+                "repo": "pocket.gl",
+                "stars": 123,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
+            },
+            {
+              "node_type": "item",
+              "title": "GLBoost",
+              "description": "Rendering library for 3D graphic geeks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Useful WebGL Library for Small Turning (Outdated, Deprecated to use)",
+                "homepage": null,
+                "id": 38567242,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2025-05-19T16:37:08Z",
+                "open_issues": 56,
+                "owner": "emadurandal",
+                "repo": "GLBoost",
+                "stars": 107,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
             }
           ],
           "description": null,
           "node_type": "group",
-          "title": "Compute (GPGPU)"
+          "title": "Low-level Rendering"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ammo.js",
+              "description": "Direct port of the Bullet physics engine to JavaScript using Emscripten.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Direct port of the Bullet physics engine to JavaScript using Emscripten",
+                "homepage": null,
+                "id": 1815807,
+                "language": "C++",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-22T22:23:04Z",
+                "open_issues": 177,
+                "owner": "kripken",
+                "repo": "ammo.js",
+                "stars": 4593,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T18:57:52.439Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Physics"
         },
         {
           "children": [
@@ -541,11 +522,11 @@
                 "id": 1205151444,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-14T06:42:44Z",
+                "last_commit": "2026-11-15T14:14:13Z",
                 "open_issues": 0,
                 "owner": "bonguynvan",
                 "repo": "tradecanvas",
-                "stars": 75,
+                "stars": 78,
                 "topics": [
                   "backtesting",
                   "candlestick-chart",
@@ -638,61 +619,6 @@
                 ]
               },
               "first_seen": "2026-10-25T11:56:08.655Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MapMetrics GL",
-              "description": "Mapbox GL JS-compatible mapping library with built-in vector tiles, geocoding, routing, and search.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 949800784,
-                "language": "TypeScript",
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-27T07:58:05Z",
-                "open_issues": 1,
-                "owner": "MapMetrics",
-                "repo": "mapmetrics-gl",
-                "stars": 2,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T18:57:52.439Z"
-            },
-            {
-              "node_type": "item",
-              "title": "WorldSeed",
-              "description": "Turns open geospatial data into playable, exportable Three.js worlds with terrain-aware roads, GLB, road graphs, spawn points, and versioned JSON Schema.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Turn open geospatial data into playable, exportable 3D worlds with Three.js, GLB, road graphs, colliders, spawn points and JSON Schema.",
-                "homepage": "https://yz4git.github.io/next-gen/",
-                "id": 1339820630,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-25T15:06:44Z",
-                "open_issues": 4,
-                "owner": "yz4git",
-                "repo": "next-gen",
-                "stars": 2,
-                "topics": [
-                  "3d",
-                  "city-generator",
-                  "gamedev",
-                  "geospatial",
-                  "gltf",
-                  "json-schema",
-                  "openstreetmap",
-                  "overturemaps",
-                  "procedural-generation",
-                  "simulation",
-                  "threejs",
-                  "webgl"
-                ]
-              },
-              "first_seen": "2026-10-25T11:56:08.655Z"
             }
           ],
           "description": null,
@@ -703,83 +629,162 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Hilo3d",
-              "description": "WebGL rendering engine for 3D games.",
+              "title": "Speedy Vision",
+              "description": "GPU-accelerated Computer Vision library for JavaScript.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "🎮 A modern Web graphics engine for production 2D and 3D experiences.",
-                "homepage": "https://hilo3d.js.org/",
-                "id": 201173291,
+                "description": "GPU-accelerated Computer Vision library for JavaScript.",
+                "homepage": null,
+                "id": 260306364,
+                "language": "JavaScript",
+                "license": "Apache-2.0",
+                "last_commit": "2025-06-20T23:01:27Z",
+                "open_issues": 7,
+                "owner": "alemart",
+                "repo": "speedy-vision",
+                "stars": 193,
+                "topics": [
+                  "computer-vision",
+                  "gpgpu",
+                  "gpu",
+                  "image-processing",
+                  "linear-algebra",
+                  "machine-vision",
+                  "opencv"
+                ]
+              },
+              "first_seen": "2026-10-25T11:56:08.655Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Computer Vision (GPGPU)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Phenomenon",
+              "description": "Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "⚡️ A fast 2kB low-level WebGL API.",
+                "homepage": null,
+                "id": 140527556,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-12T02:28:12Z",
-                "open_issues": 0,
-                "owner": "hiloteam",
-                "repo": "Hilo3d",
-                "stars": 668,
+                "last_commit": "2023-11-10T18:43:14Z",
+                "open_issues": 3,
+                "owner": "vaneenige",
+                "repo": "phenomenon",
+                "stars": 1848,
                 "topics": [
-                  "3d",
+                  "gpu",
+                  "low-level",
+                  "particles",
                   "rendering",
-                  "webgl",
-                  "webgpu"
+                  "shaders",
+                  "webgl"
                 ]
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
             },
             {
               "node_type": "item",
-              "title": "GLBoost",
-              "description": "Rendering library for 3D graphic geeks.",
+              "title": "textmode.js",
+              "description": "Lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics using WebGL2.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A Useful WebGL Library for Small Turning (Outdated, Deprecated to use)",
-                "homepage": null,
-                "id": 38567242,
-                "language": "JavaScript",
+                "description": "textmode.js is a lightweight creative coding library for creating real-time ASCII art on the web.",
+                "homepage": "https://code.textmode.art",
+                "id": 1019649473,
+                "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2025-05-19T16:37:08Z",
-                "open_issues": 56,
-                "owner": "emadurandal",
-                "repo": "GLBoost",
-                "stars": 107,
-                "topics": []
+                "last_commit": "2026-11-12T22:00:19Z",
+                "open_issues": 1,
+                "owner": "humanbydefinition",
+                "repo": "textmode.js",
+                "stars": 177,
+                "topics": [
+                  "art",
+                  "ascii",
+                  "canvas",
+                  "creative-coding",
+                  "design",
+                  "graphics",
+                  "petscii",
+                  "textmode",
+                  "webgl"
+                ]
               },
-              "first_seen": "2026-08-28T18:57:52.439Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Rendering"
-        },
-        {
-          "children": [
+              "first_seen": "2026-10-25T11:56:08.655Z"
+            },
             {
               "node_type": "item",
-              "title": "Ammo.js",
-              "description": "Direct port of the Bullet physics engine to JavaScript using Emscripten.",
+              "title": "NixieFX",
+              "description": "Particle and VFX runtime for PixiJS and Three.js, authored in a browser-based editor.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Direct port of the Bullet physics engine to JavaScript using Emscripten",
-                "homepage": null,
-                "id": 1815807,
-                "language": "C++",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-22T22:23:04Z",
-                "open_issues": 177,
-                "owner": "kripken",
-                "repo": "ammo.js",
-                "stars": 4589,
-                "topics": []
+                "description": "Open-source particle and VFX runtimes for PixiJS and Three.js",
+                "homepage": "https://nixiefx.com",
+                "id": 1335269097,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-05T16:41:16Z",
+                "open_issues": 5,
+                "owner": "azakhary",
+                "repo": "nixie-fx",
+                "stars": 28,
+                "topics": [
+                  "particles",
+                  "pixijs",
+                  "threejs",
+                  "typescript",
+                  "vfx"
+                ]
               },
-              "first_seen": "2026-08-28T18:57:52.439Z"
+              "first_seen": "2026-10-25T11:56:08.655Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Vysmo Transitions",
+              "description": "Tree-shakable WebGL 2 library of 60 endpoint-correct transitions with mesh and multi-pass support, ~5 KB gzipped.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "WebGL transitions, text animation, scroll effects, and more - MIT libraries.",
+                "homepage": "https://vysmo.com",
+                "id": 1228905311,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-05-20T23:11:31Z",
+                "open_issues": 0,
+                "owner": "vysmodev",
+                "repo": "vysmo",
+                "stars": 9,
+                "topics": [
+                  "animation",
+                  "mit",
+                  "react",
+                  "scroll",
+                  "shaders",
+                  "text-animation",
+                  "transitions",
+                  "typescript",
+                  "webgl",
+                  "webgl2"
+                ]
+              },
+              "first_seen": "2026-10-25T11:56:08.655Z"
             }
           ],
           "description": null,
           "node_type": "group",
-          "title": "Physics"
+          "title": "Particles and Effects"
         },
         {
           "children": [
@@ -823,208 +828,24 @@
           "children": [
             {
               "node_type": "item",
-              "title": "textmode.js",
-              "description": "Lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics using WebGL2.",
+              "title": "React 360",
+              "description": "Build VR websites and interactive 360 experiences with React (archived by Facebook).",
               "children": [],
               "repo_info": {
-                "archived": false,
-                "description": "textmode.js is a lightweight creative coding library for creating real-time ASCII art on the web.",
-                "homepage": "https://code.textmode.art",
-                "id": 1019649473,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-11-12T22:00:19Z",
-                "open_issues": 1,
-                "owner": "humanbydefinition",
-                "repo": "textmode.js",
-                "stars": 177,
-                "topics": [
-                  "art",
-                  "ascii",
-                  "canvas",
-                  "creative-coding",
-                  "design",
-                  "graphics",
-                  "petscii",
-                  "textmode",
-                  "webgl"
-                ]
-              },
-              "first_seen": "2026-10-25T11:56:08.655Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Vysmo Transitions",
-              "description": "Tree-shakable WebGL 2 library of 60 endpoint-correct transitions with mesh and multi-pass support, ~5 KB gzipped.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "WebGL transitions, text animation, scroll effects, and more - MIT libraries.",
-                "homepage": "https://vysmo.com",
-                "id": 1228905311,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-05-20T23:11:31Z",
-                "open_issues": 0,
-                "owner": "vysmodev",
-                "repo": "vysmo",
-                "stars": 9,
-                "topics": [
-                  "animation",
-                  "mit",
-                  "react",
-                  "scroll",
-                  "shaders",
-                  "text-animation",
-                  "transitions",
-                  "typescript",
-                  "webgl",
-                  "webgl2"
-                ]
-              },
-              "first_seen": "2026-10-25T11:56:08.655Z"
-            },
-            {
-              "node_type": "item",
-              "title": "dither-flow",
-              "description": "Cursor-stirred 1-bit dithered flow field, WebGL 2 only, zero dependencies.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A 1-bit dithered flow field for the web — cursor-stirred ink, curl-noise advection, Bayer ordered dithering. Raw WebGL2, zero dependencies.",
-                "homepage": "https://caleblemos.github.io/dither-flow/",
-                "id": 1339923166,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-08-29T03:40:09Z",
-                "open_issues": 0,
-                "owner": "caleblemos",
-                "repo": "dither-flow",
-                "stars": 2,
-                "topics": [
-                  "1-bit",
-                  "bayer",
-                  "creative-coding",
-                  "curl-noise",
-                  "dithering",
-                  "flow-field",
-                  "ordered-dithering",
-                  "shaders",
-                  "webgl",
-                  "webgl2"
-                ]
-              },
-              "first_seen": "2026-10-25T11:56:08.655Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "WebGL 2"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Primrose",
-              "description": "Rapidly prototype VR applications in your browser.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A syntax-highlighting text editors that renders to an HTML5 Canvas",
-                "homepage": "https://www.primrosevr.com",
-                "id": 28740792,
+                "archived": true,
+                "description": "Create amazing 360 and VR content using React",
+                "homepage": "https://facebook.github.io/react-360",
+                "id": 76289797,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2025-02-11T05:57:58Z",
-                "open_issues": 9,
-                "owner": "capnmidnight",
-                "repo": "Primrose",
-                "stars": 535,
-                "topics": [
-                  "computer-graphics",
-                  "html5",
-                  "javascript",
-                  "object-oriented",
-                  "syntax-highlighting",
-                  "text-editor",
-                  "text-editor-for-web"
-                ]
+                "last_commit": "2020-12-11T10:19:14Z",
+                "open_issues": 292,
+                "owner": "facebookarchive",
+                "repo": "react-360",
+                "stars": 8694,
+                "topics": []
               },
-              "first_seen": "2026-08-28T18:57:52.439Z"
-            },
-            {
-              "node_type": "group",
-              "title": "A-Frame",
-              "description": "Web framework for building virtual reality experiences.",
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Awesome-AFrame",
-                  "description": "aframevr/awesome-aframe",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[DISCONTINUED] Collection of awesome resources for the A-Frame WebVR framework.",
-                    "homepage": "https://aframe.io/",
-                    "id": 47050970,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2017-10-29T22:28:54Z",
-                    "open_issues": 0,
-                    "owner": "aframevr",
-                    "repo": "awesome-aframe",
-                    "stars": 1337,
-                    "topics": [
-                      "aframe",
-                      "threejs",
-                      "virtual-reality",
-                      "virtualreality",
-                      "vr",
-                      "webvr"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:57:52.439Z"
-                }
-              ]
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "WebVR"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "img2threejs",
-              "description": "Toolkit that rebuilds the object in a reference image as a code-only, procedural Three.js model - primitives, procedural shaders, generated geometry, no downloaded meshes.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-                "homepage": "https://img2threejs.io",
-                "id": 1301140808,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-05T08:38:00Z",
-                "open_issues": 121,
-                "owner": "img2threejs",
-                "repo": "img2threejs",
-                "stars": 21355,
-                "topics": [
-                  "3d",
-                  "ai-agents",
-                  "claude-code",
-                  "computer-graphics",
-                  "generative",
-                  "image-to-3d",
-                  "procedural-generation",
-                  "threejs",
-                  "typescript",
-                  "webgl"
-                ]
-              },
-              "first_seen": "2026-10-25T11:56:08.655Z"
+              "first_seen": "2026-11-15T14:14:59.989Z"
             },
             {
               "node_type": "item",
@@ -1046,82 +867,11 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Lightgl.js",
-              "description": "Lightweight and explict library to help prototype.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A lightweight WebGL library",
-                "homepage": null,
-                "id": 1954949,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2022-08-25T07:09:47Z",
-                "open_issues": 18,
-                "owner": "evanw",
-                "repo": "lightgl.js",
-                "stars": 1573,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T18:57:52.439Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Pocket.gl",
-              "description": "Fully customizable webgl shader sandbox to embed in your pages.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A fully customizable webgl shader sandbox to embed in your pages",
-                "homepage": "http://pocket.gl",
-                "id": 55584610,
-                "language": "JavaScript",
-                "license": "GPL-3.0",
-                "last_commit": "2019-04-26T14:14:22Z",
-                "open_issues": 2,
-                "owner": "gportelli",
-                "repo": "pocket.gl",
-                "stars": 123,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T18:57:52.439Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Novaframe Engine",
-              "description": "Open-source desktop live wallpaper runtime for interactive WebGL and Three.js shaders.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "High-performance desktop live wallpaper runtime for macOS & Windows (Tauri v2, Rust, WebGL, Shaders)",
-                "homepage": "https://www.novaframe.co.uk/",
-                "id": 1268374241,
-                "language": "Rust",
-                "license": null,
-                "last_commit": "2026-10-28T13:36:10Z",
-                "open_issues": 0,
-                "owner": "novaframe-hq",
-                "repo": "novaframe-engine",
-                "stars": 0,
-                "topics": [
-                  "creative-coding",
-                  "macos",
-                  "rust",
-                  "shaders",
-                  "tauri",
-                  "wallpaper",
-                  "webgl"
-                ]
-              },
-              "first_seen": "2026-11-11T14:40:07.916Z"
             }
           ],
-          "description": null,
+          "description": "Still linked for historical reference; check project activity before starting something new with these.",
           "node_type": "group",
-          "title": "Others"
+          "title": "Legacy / Unmaintained"
         }
       ],
       "title": "Libraries"
@@ -1145,7 +895,7 @@
             "open_issues": 104,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 536697,
+            "stars": 537259,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1169,10 +919,10 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-11-13T14:05:55Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17775,
+            "stars": 17781,
             "topics": [
               "art",
               "awesome",
@@ -1206,11 +956,11 @@
             "id": 7921466,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T01:53:12Z",
+            "last_commit": "2026-11-15T00:11:57Z",
             "open_issues": 280,
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7889,
+            "stars": 7891,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
@@ -1231,7 +981,7 @@
             "open_issues": 9,
             "owner": "vinjn",
             "repo": "awesome-vulkan",
-            "stars": 3730,
+            "stars": 3731,
             "topics": [
               "amd",
               "arm",
@@ -1295,7 +1045,7 @@
             "open_issues": 5,
             "owner": "mattdesl",
             "repo": "graphics-resources",
-            "stars": 1862,
+            "stars": 1863,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
@@ -1305,7 +1055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T13:45:01.638Z",
+    "last_updated": "2026-11-15T14:14:59.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",
@@ -1313,8 +1063,8 @@
       "id": 77980522,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-10T19:42:36Z",
-      "open_issues": 3,
+      "last_commit": "2026-11-15T03:04:53Z",
+      "open_issues": 2,
       "owner": "sjfricke",
       "repo": "awesome-webgl",
       "stars": 1549,
@@ -1332,7 +1082,7 @@
         "webgl-tutorials"
       ]
     },
-    "original_repository_sha": "3cedba734e337010e162f50ed68e9903c98442c8",
+    "original_repository_sha": "2b1833c433e00c32f1f9619a188b4b8c0c6113e1",
     "enhanced_repository": "enhansome/enhansome-webgl",
     "enhanced_repository_description": null,
     "title": "Awesome WebGL with stars"

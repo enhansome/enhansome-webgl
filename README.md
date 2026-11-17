@@ -102,7 +102,7 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,122 | 🐛 9 | 🌐 C++ | 📅 2026-11-16 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,123 | 🐛 9 | 🌐 C++ | 📅 2026-11-17 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
 * [WebGL Source Code](https://github.com/KhronosGroup/WebGL) ⭐ 2,872 | 🐛 245 | 🌐 HTML | 📅 2026-11-05 - Source code to both view and contribute.
 * [Khronos Official Wiki](https://wikis.khronos.org/webgl/) - The official wiki for WebGL.
 * [WebGL Best Practices](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices) - Mozilla's official set of best practices.
@@ -286,12 +286,12 @@ Processing Unit (GPU).
 
 ### Physics
 
-* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,595 | 🐛 177 | 🌐 C++ | 📅 2026-09-22 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,596 | 🐛 177 | 🌐 C++ | 📅 2026-09-22 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Cannon.js](http://schteppe.github.io/cannon.js/) - Lightweight and simple 3D physics engine for the web.
 
 ### Maps and Visualizations
 
-* [TradeCanvas](https://github.com/bonguynvan/tradecanvas) ⭐ 82 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-16 - Financial charting library that draws candles, indicators and depth heatmaps with WebGL 2, falling back to Canvas 2D.
+* [TradeCanvas](https://github.com/bonguynvan/tradecanvas) ⭐ 85 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-17 - Financial charting library that draws candles, indicators and depth heatmaps with WebGL 2, falling back to Canvas 2D.
 * [leaflet-webgl-markers](https://github.com/tang-tc/leaflet-webgl-markers) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-24 - Leaflet plugin for rendering millions of point markers on a single WebGL canvas, with FBO picking and zero redraw while dragging.
 * [Globedots](https://github.com/swamoth/globedots) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 - Dot-matrix globe on WebGL2 in 17 kB, with markers, arcs, labels, heat maps, and a day-night line.
 * [Cesium](https://cesium.com/) - Open-source library for world-class 3D globes and maps.
@@ -307,7 +307,7 @@ Processing Unit (GPU).
 
 * [Phenomenon](https://github.com/vaneenige/phenomenon) ⭐ 1,848 | 🐛 3 | 🌐 TypeScript | 📅 2023-11-10 - Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.
 * [textmode.js](https://github.com/humanbydefinition/textmode.js) ⭐ 178 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-12 - Lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics using WebGL2.
-* [NixieFX](https://github.com/azakhary/nixie-fx) ⭐ 28 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-05 - Particle and VFX runtime for PixiJS and Three.js, authored in a browser-based editor.
+* [NixieFX](https://github.com/azakhary/nixie-fx) ⭐ 29 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-05 - Particle and VFX runtime for PixiJS and Three.js, authored in a browser-based editor.
 * [Vysmo Transitions](https://github.com/vysmodev/vysmo) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-20 - Tree-shakable WebGL 2 library of 60 endpoint-correct transitions with mesh and multi-pass support, \~5 KB gzipped.
 
 ### WebAR
@@ -345,10 +345,10 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,850 | 🐛 104 | 📅 2026-09-02 - Curated list of awesome lists.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,792 | 🐛 46 | 🌐 Markdown | 📅 2026-11-16 - Awesome list about game development.
-* [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,892 | 🐛 281 | 🌐 HTML | 📅 2026-11-16 - Runtime 3D Asset Delivery designed for the web.
-* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,731 | 🐛 9 | 📅 2026-05-11 - Curated list of awesome Vulkan projects and ecosystem.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 538,369 | 🐛 104 | 📅 2026-09-02 - Curated list of awesome lists.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,807 | 🐛 40 | 🌐 Markdown | 📅 2026-11-17 - Awesome list about game development.
+* [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,894 | 🐛 279 | 🌐 HTML | 📅 2026-11-17 - Runtime 3D Asset Delivery designed for the web.
+* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,732 | 🐛 9 | 📅 2026-05-11 - Curated list of awesome Vulkan projects and ecosystem.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,457 | 🐛 1 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,863 | 🐛 5 | 📅 2020-12-30 - List of graphic programming resources.
 
@@ -364,4 +364,4 @@ To the extent possible under law, [Spencer Fricke](https://github.com/sjfricke) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._

@@ -73,11 +73,11 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T15:36:42Z",
+                "last_commit": "2026-11-20T15:20:39Z",
                 "open_issues": 9,
                 "owner": "google",
                 "repo": "angle",
-                "stars": 4126,
+                "stars": 4124,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -170,7 +170,7 @@
                     "open_issues": 12,
                     "owner": "spite",
                     "repo": "ShaderEditorExtension",
-                    "stars": 636,
+                    "stars": 635,
                     "topics": [
                       "chrome-devtools-extension",
                       "glsl",
@@ -248,7 +248,7 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2018-11-13T11:39:03Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "tsherif",
                 "repo": "webgl2examples",
                 "stars": 579,
@@ -318,7 +318,7 @@
                 "open_issues": 9,
                 "owner": "capnmidnight",
                 "repo": "Primrose",
-                "stars": 535,
+                "stars": 534,
                 "topics": [
                   "computer-graphics",
                   "html5",
@@ -498,7 +498,7 @@
                 "open_issues": 177,
                 "owner": "kripken",
                 "repo": "ammo.js",
-                "stars": 4599,
+                "stars": 4602,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -522,11 +522,11 @@
                 "id": 1205151444,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T15:56:48Z",
+                "last_commit": "2026-11-20T15:38:51Z",
                 "open_issues": 1,
                 "owner": "bonguynvan",
                 "repo": "tradecanvas",
-                "stars": 87,
+                "stars": 92,
                 "topics": [
                   "backtesting",
                   "candlestick-chart",
@@ -679,7 +679,7 @@
                 "open_issues": 3,
                 "owner": "vaneenige",
                 "repo": "phenomenon",
-                "stars": 1848,
+                "stars": 1847,
                 "topics": [
                   "gpu",
                   "low-level",
@@ -842,7 +842,7 @@
                 "open_issues": 292,
                 "owner": "facebookarchive",
                 "repo": "react-360",
-                "stars": 8693,
+                "stars": 8691,
                 "topics": []
               },
               "first_seen": "2026-11-15T14:14:59.989Z"
@@ -863,7 +863,7 @@
                 "open_issues": 41,
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5145,
+                "stars": 5144,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -892,10 +892,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T02:10:47Z",
-            "open_issues": 104,
+            "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 539358,
+            "stars": 539846,
             "topics": [
               "awesome",
               "awesome-list",
@@ -918,11 +918,11 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-11-19T14:05:33Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-19T21:32:11Z",
+            "open_issues": 2,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17828,
+            "stars": 17835,
             "topics": [
               "art",
               "awesome",
@@ -956,7 +956,7 @@
             "id": 7921466,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T05:56:05Z",
+            "last_commit": "2026-11-20T15:16:12Z",
             "open_issues": 280,
             "owner": "KhronosGroup",
             "repo": "glTF",
@@ -1045,7 +1045,7 @@
             "open_issues": 6,
             "owner": "mattdesl",
             "repo": "graphics-resources",
-            "stars": 1864,
+            "stars": 1863,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:52.439Z"
@@ -1055,7 +1055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T15:59:44.333Z",
+    "last_updated": "2026-11-20T15:42:55.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",
@@ -1067,7 +1067,7 @@
       "open_issues": 6,
       "owner": "sjfricke",
       "repo": "awesome-webgl",
-      "stars": 1549,
+      "stars": 1548,
       "topics": [
         "awesome",
         "awesome-list",

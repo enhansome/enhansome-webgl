@@ -49,7 +49,7 @@
                 "open_issues": 246,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2872,
+                "stars": 2873,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -73,7 +73,7 @@
                 "id": 23355681,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-21T08:08:30Z",
+                "last_commit": "2026-11-22T04:13:26Z",
                 "open_issues": 9,
                 "owner": "google",
                 "repo": "angle",
@@ -98,7 +98,7 @@
                 "open_issues": 246,
                 "owner": "KhronosGroup",
                 "repo": "WebGL",
-                "stars": 2872,
+                "stars": 2873,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -428,7 +428,7 @@
                 "open_issues": 18,
                 "owner": "evanw",
                 "repo": "lightgl.js",
-                "stars": 1572,
+                "stars": 1573,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -498,7 +498,7 @@
                 "open_issues": 177,
                 "owner": "kripken",
                 "repo": "ammo.js",
-                "stars": 4602,
+                "stars": 4604,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -522,8 +522,8 @@
                 "id": 1205151444,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-21T14:52:56Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-22T14:41:28Z",
+                "open_issues": 2,
                 "owner": "bonguynvan",
                 "repo": "tradecanvas",
                 "stars": 93,
@@ -548,6 +548,38 @@
                   "typescript",
                   "vue",
                   "webgl"
+                ]
+              },
+              "first_seen": "2026-10-25T11:56:08.655Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Globedots",
+              "description": "Dot-matrix globe on WebGL2 in 17 kB, with markers, arcs, labels, heat maps, and a day-night line.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A dot-matrix globe on WebGL2. 18.4 kB gzipped, no dependency, no three.js.  Markers, arcs, paths, bars, rings, labels, per-dot data, heat maps, borders, a day-night line, click and hover events, and picking. The globe draws only when something changes.",
+                "homepage": "https://swamoth.github.io/globedots/",
+                "id": 1376209177,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-18T19:13:12Z",
+                "open_issues": 0,
+                "owner": "swamoth",
+                "repo": "globedots",
+                "stars": 3,
+                "topics": [
+                  "3d-globe",
+                  "data-visualization",
+                  "dot-matrix",
+                  "globe",
+                  "map",
+                  "react",
+                  "three-js-alternative",
+                  "typescript",
+                  "webgl",
+                  "webgl2"
                 ]
               },
               "first_seen": "2026-10-25T11:56:08.655Z"
@@ -584,38 +616,6 @@
                   "visualization",
                   "web-mapping",
                   "webgl"
-                ]
-              },
-              "first_seen": "2026-10-25T11:56:08.655Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Globedots",
-              "description": "Dot-matrix globe on WebGL2 in 17 kB, with markers, arcs, labels, heat maps, and a day-night line.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A dot-matrix globe on WebGL2. 18.4 kB gzipped, no dependency, no three.js.  Markers, arcs, paths, bars, rings, labels, per-dot data, heat maps, borders, a day-night line, click and hover events, and picking. The globe draws only when something changes.",
-                "homepage": "https://swamoth.github.io/globedots/",
-                "id": 1376209177,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-09-18T19:13:12Z",
-                "open_issues": 0,
-                "owner": "swamoth",
-                "repo": "globedots",
-                "stars": 2,
-                "topics": [
-                  "3d-globe",
-                  "data-visualization",
-                  "dot-matrix",
-                  "globe",
-                  "map",
-                  "react",
-                  "three-js-alternative",
-                  "typescript",
-                  "webgl",
-                  "webgl2"
                 ]
               },
               "first_seen": "2026-10-25T11:56:08.655Z"
@@ -842,7 +842,7 @@
                 "open_issues": 292,
                 "owner": "facebookarchive",
                 "repo": "react-360",
-                "stars": 8691,
+                "stars": 8690,
                 "topics": []
               },
               "first_seen": "2026-11-15T14:14:59.989Z"
@@ -863,7 +863,7 @@
                 "open_issues": 41,
                 "owner": "turbulenz",
                 "repo": "turbulenz_engine",
-                "stars": 5146,
+                "stars": 5147,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:52.439Z"
@@ -895,7 +895,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 540326,
+            "stars": 540873,
             "topics": [
               "awesome",
               "awesome-list",
@@ -919,10 +919,10 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-11-19T21:32:11Z",
-            "open_issues": 3,
+            "open_issues": 5,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17841,
+            "stars": 17850,
             "topics": [
               "art",
               "awesome",
@@ -1055,7 +1055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T14:53:31.066Z",
+    "last_updated": "2026-11-22T14:49:40.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebGL libraries, resources and much more",

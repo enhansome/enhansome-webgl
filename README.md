@@ -75,7 +75,7 @@ Processing Unit (GPU).
 
 > Reporting bugs helps everyone in long run
 
-* [Khronos Github Issue Page](https://github.com/KhronosGroup/WebGL/issues) ⭐ 2,876 | 🐛 248 | 🌐 HTML | 📅 2026-11-05 - Spec or Conformance related bugs
+* [Khronos Github Issue Page](https://github.com/KhronosGroup/WebGL/issues) ⭐ 2,877 | 🐛 248 | 🌐 HTML | 📅 2026-11-05 - Spec or Conformance related bugs
 * [Chrome Bug Report](https://issues.chromium.org/issues) - Chrome related bugs
 * [Mozilla BugZilla](https://bugzilla.mozilla.org) - Firefox related bugs
 * [WebKit Bugzilla](https://bugs.webkit.org/enter_bug.cgi?product=WebKit\&component=WebGL) - Safari related bugs
@@ -102,8 +102,8 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,126 | 🐛 9 | 🌐 C++ | 📅 2026-11-27 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
-* [WebGL Source Code](https://github.com/KhronosGroup/WebGL) ⭐ 2,876 | 🐛 248 | 🌐 HTML | 📅 2026-11-05 - Source code to both view and contribute.
+* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,128 | 🐛 9 | 🌐 C++ | 📅 2026-11-28 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+* [WebGL Source Code](https://github.com/KhronosGroup/WebGL) ⭐ 2,877 | 🐛 248 | 🌐 HTML | 📅 2026-11-05 - Source code to both view and contribute.
 * [Khronos Official Wiki](https://wikis.khronos.org/webgl/) - The official wiki for WebGL.
 * [WebGL Best Practices](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices) - Mozilla's official set of best practices.
 * [WebGL Errata](https://wikis.khronos.org/webgl/Errata_to_the_WebGL_Specification) - Known bugs in graphics drivers affect the conformance suite, and consequently, portability of code.
@@ -246,7 +246,7 @@ Processing Unit (GPU).
 
 * [Primrose](https://github.com/capnmidnight/Primrose/) ⭐ 534 | 🐛 9 | 🌐 JavaScript | 📅 2025-02-11 - Rapidly prototype VR applications in your browser.
 * [A-Frame](https://aframe.io/) - Web framework for building virtual reality experiences.
-  * [Awesome-AFrame](https://github.com/aframevr/awesome-aframe) ⭐ 1,337 | 🐛 0 | 📅 2017-10-29
+  * [Awesome-AFrame](https://github.com/aframevr/awesome-aframe) ⭐ 1,336 | 🐛 0 | 📅 2017-10-29
 
 ## Libraries
 
@@ -254,7 +254,7 @@ Processing Unit (GPU).
 
 ### Engines and Frameworks
 
-* [Hilo3d](https://github.com/hiloteam/Hilo3d) ⭐ 668 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-12 - WebGL rendering engine for 3D games.
+* [Hilo3d](https://github.com/hiloteam/Hilo3d) ⭐ 668 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-28 - WebGL rendering engine for 3D games.
 * [Babylon.js](https://www.babylonjs.com/) - Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
 * [Blend4Web](https://www.blend4web.com/en/) - Tool for interactive 3D visualization on the Internet.
 * [ClayGL](https://claygl.xyz/) - WebGL graphic Library for building scalable Web3D applications.
@@ -286,12 +286,12 @@ Processing Unit (GPU).
 
 ### Physics
 
-* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,614 | 🐛 177 | 🌐 C++ | 📅 2026-09-22 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,616 | 🐛 177 | 🌐 C++ | 📅 2026-09-22 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Cannon.js](http://schteppe.github.io/cannon.js/) - Lightweight and simple 3D physics engine for the web.
 
 ### Maps and Visualizations
 
-* [TradeCanvas](https://github.com/bonguynvan/tradecanvas) ⭐ 101 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-27 - Financial charting library that draws candles, indicators and depth heatmaps with WebGL 2, falling back to Canvas 2D.
+* [TradeCanvas](https://github.com/bonguynvan/tradecanvas) ⭐ 104 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-28 - Financial charting library that draws candles, indicators and depth heatmaps with WebGL 2, falling back to Canvas 2D.
 * [Globedots](https://github.com/swamoth/globedots) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 - Dot-matrix globe on WebGL2 in 17 kB, with markers, arcs, labels, heat maps, and a day-night line.
 * [leaflet-webgl-markers](https://github.com/tang-tc/leaflet-webgl-markers) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-24 - Leaflet plugin for rendering millions of point markers on a single WebGL canvas, with FBO picking and zero redraw while dragging.
 * [Cesium](https://cesium.com/) - Open-source library for world-class 3D globes and maps.
@@ -306,8 +306,8 @@ Processing Unit (GPU).
 ### Particles and Effects
 
 * [Phenomenon](https://github.com/vaneenige/phenomenon) ⭐ 1,847 | 🐛 3 | 🌐 TypeScript | 📅 2023-11-10 - Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.
-* [textmode.js](https://github.com/humanbydefinition/textmode.js) ⭐ 184 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-26 - Lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics using WebGL2.
-* [NixieFX](https://github.com/azakhary/nixie-fx) ⭐ 32 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-05 - Particle and VFX runtime for PixiJS and Three.js, authored in a browser-based editor.
+* [textmode.js](https://github.com/humanbydefinition/textmode.js) ⭐ 184 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-27 - Lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics using WebGL2.
+* [NixieFX](https://github.com/azakhary/nixie-fx) ⭐ 33 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-05 - Particle and VFX runtime for PixiJS and Three.js, authored in a browser-based editor.
 * [Vysmo Transitions](https://github.com/vysmodev/vysmo) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-20 - Tree-shakable WebGL 2 library of 60 endpoint-correct transitions with mesh and multi-pass support, \~5 KB gzipped.
 
 ### WebAR
@@ -319,7 +319,7 @@ Processing Unit (GPU).
 > Still linked for historical reference; check project activity before starting something new with these.
 
 * [React 360](https://github.com/facebookarchive/react-360) ⚠️ Archived - Build VR websites and interactive 360 experiences with React (archived by Facebook).
-* [Turbulenz](https://github.com/turbulenz/turbulenz_engine) ⭐ 5,156 | 🐛 41 | 🌐 TypeScript | 📅 2023-05-28 - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
+* [Turbulenz](https://github.com/turbulenz/turbulenz_engine) ⭐ 5,158 | 🐛 41 | 🌐 TypeScript | 📅 2023-05-28 - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
 * [GLGE](http://www.glge.org/) - Javascript library intended to ease the use of WebGL.
 * [OSG.js](https://cedricpinson.github.io/osgjs-website/) - WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
 * [Pex-gl](http://vorg.github.io/pex/) - JavaScript libraries for computational thinking in Plask/Node.js and WebGL.
@@ -345,9 +345,9 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,821 | 🐛 103 | 📅 2026-09-02 - Curated list of awesome lists.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,885 | 🐛 0 | 🌐 Markdown | 📅 2026-11-27 - Awesome list about game development.
-* [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,907 | 🐛 280 | 🌐 HTML | 📅 2026-11-25 - Runtime 3D Asset Delivery designed for the web.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 544,256 | 🐛 103 | 📅 2026-09-02 - Curated list of awesome lists.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,891 | 🐛 1 | 🌐 Markdown | 📅 2026-11-28 - Awesome list about game development.
+* [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,909 | 🐛 280 | 🌐 HTML | 📅 2026-11-25 - Runtime 3D Asset Delivery designed for the web.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,734 | 🐛 13 | 📅 2026-05-11 - Curated list of awesome Vulkan projects and ecosystem.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,461 | 🐛 3 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,863 | 🐛 6 | 📅 2020-12-30 - List of graphic programming resources.
@@ -364,4 +364,4 @@ To the extent possible under law, [Spencer Fricke](https://github.com/sjfricke) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
